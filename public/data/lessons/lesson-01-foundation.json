@@ -1,0 +1,430 @@
+{
+  "part": 1,
+  "title": "Level 1 — Foundation",
+  "level": "Foundation",
+  "lessonCount": 10,
+  "lessons": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "Home Row: F and J",
+      "description": "Learn the home position keys F and J. Place your index fingers on these keys.",
+      "level": "Foundation",
+      "difficulty": 1,
+      "targetKeys": [
+        "f",
+        "j"
+      ],
+      "targetFingers": [
+        "left-index",
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "ffff jjjj ffff jjjj",
+          "type": "drill"
+        },
+        {
+          "text": "fjfj fjfj jfjf jfjf",
+          "type": "drill"
+        },
+        {
+          "text": "ff jj ff jj fj jf fj jf",
+          "type": "drill"
+        },
+        {
+          "text": "ffff jjjj fjfj jfjf ffff",
+          "type": "drill"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "title": "Home Row: D and K",
+      "description": "Add D and K under your middle fingers.",
+      "level": "Foundation",
+      "difficulty": 1,
+      "targetKeys": [
+        "d",
+        "k",
+        "f",
+        "j"
+      ],
+      "targetFingers": [
+        "left-middle",
+        "right-middle"
+      ],
+      "exercises": [
+        {
+          "text": "dddd kkkk dddd kkkk",
+          "type": "drill"
+        },
+        {
+          "text": "dkdk dkdk kdkd kdkd",
+          "type": "drill"
+        },
+        {
+          "text": "df jk df jk fd kj fd kj",
+          "type": "drill"
+        },
+        {
+          "text": "ddkk kkdd dfjk jkdf",
+          "type": "drill"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "title": "Home Row: S and L",
+      "description": "Place ring fingers on S and L.",
+      "level": "Foundation",
+      "difficulty": 1,
+      "targetKeys": [
+        "s",
+        "l",
+        "d",
+        "k",
+        "f",
+        "j"
+      ],
+      "targetFingers": [
+        "left-ring",
+        "right-ring"
+      ],
+      "exercises": [
+        {
+          "text": "ssss llll ssss llll",
+          "type": "drill"
+        },
+        {
+          "text": "slsl slsl lsls lsls",
+          "type": "drill"
+        },
+        {
+          "text": "sd lk sd lk ds kl ds kl",
+          "type": "drill"
+        },
+        {
+          "text": "ssll llss sdfj jkls",
+          "type": "drill"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "title": "Home Row: A and Semicolon",
+      "description": "Pinky fingers on A and semicolon (;).",
+      "level": "Foundation",
+      "difficulty": 1,
+      "targetKeys": [
+        "a",
+        ";",
+        "s",
+        "l",
+        "d",
+        "k",
+        "f",
+        "j"
+      ],
+      "targetFingers": [
+        "left-pinky",
+        "right-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "aaaa ;;;; aaaa ;;;;",
+          "type": "drill"
+        },
+        {
+          "text": "a;a; a;a; ;a;a ;a;a",
+          "type": "drill"
+        },
+        {
+          "text": "as ;l as ;l sa l; sa l;",
+          "type": "drill"
+        },
+        {
+          "text": "asdf jkl; asdf jkl;",
+          "type": "drill"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "title": "Full Home Row",
+      "description": "Practice the entire home row: A S D F J K L ;",
+      "level": "Foundation",
+      "difficulty": 1,
+      "targetKeys": [
+        "a",
+        "s",
+        "d",
+        "f",
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [
+        "left-pinky",
+        "left-ring",
+        "left-middle",
+        "left-index",
+        "right-index",
+        "right-middle",
+        "right-ring",
+        "right-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "asdf jkl; asdf jkl;",
+          "type": "drill"
+        },
+        {
+          "text": "asdfjkl; asdfjkl;",
+          "type": "drill"
+        },
+        {
+          "text": "fdsa ;lkj fdsa ;lkj",
+          "type": "drill"
+        },
+        {
+          "text": "a s d f j k l ; a s d f",
+          "type": "drill"
+        },
+        {
+          "text": "asdf ;lkj asdf ;lkj asdf",
+          "type": "drill"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "title": "Home Row Combinations",
+      "description": "Build fluency with home row combinations.",
+      "level": "Foundation",
+      "difficulty": 2,
+      "targetKeys": [
+        "a",
+        "s",
+        "d",
+        "f",
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "sad lad fad dad jak",
+          "type": "words"
+        },
+        {
+          "text": "ask flask salad salad",
+          "type": "words"
+        },
+        {
+          "text": "fall jacks flasks dads",
+          "type": "words"
+        },
+        {
+          "text": "a sad lad falls; a lad asks",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92,
+        "minRepetitions": 2
+      }
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "title": "Left Hand Focus",
+      "description": "Strengthen left-hand home row keys.",
+      "level": "Foundation",
+      "difficulty": 2,
+      "targetKeys": [
+        "a",
+        "s",
+        "d",
+        "f"
+      ],
+      "targetFingers": [
+        "left-pinky",
+        "left-ring",
+        "left-middle",
+        "left-index"
+      ],
+      "exercises": [
+        {
+          "text": "asdf asdf asdf asdf",
+          "type": "drill"
+        },
+        {
+          "text": "afds afds dsaf dsaf",
+          "type": "drill"
+        },
+        {
+          "text": "sad fad dad as ads",
+          "type": "words"
+        },
+        {
+          "text": "a sad dad adds a fad",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "title": "Right Hand Focus",
+      "description": "Strengthen right-hand home row keys.",
+      "level": "Foundation",
+      "difficulty": 2,
+      "targetKeys": [
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [
+        "right-index",
+        "right-middle",
+        "right-ring",
+        "right-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "jkl; jkl; jkl; jkl;",
+          "type": "drill"
+        },
+        {
+          "text": "j;lk j;lk ;klj ;klj",
+          "type": "drill"
+        },
+        {
+          "text": "jak lark; jak lark;",
+          "type": "words"
+        },
+        {
+          "text": "jill; jack; jill; jack",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "title": "Home Row Words",
+      "description": "Type real words using only home row keys.",
+      "level": "Foundation",
+      "difficulty": 2,
+      "targetKeys": [
+        "a",
+        "s",
+        "d",
+        "f",
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "ask sad lad fad jak flask",
+          "type": "words"
+        },
+        {
+          "text": "salad falls flasks dads lads",
+          "type": "words"
+        },
+        {
+          "text": "a sad lad asks; a dad falls",
+          "type": "sentence"
+        },
+        {
+          "text": "all lads ask; all dads fall",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "title": "Home Row Mastery",
+      "description": "Master the home row before moving on.",
+      "level": "Foundation",
+      "difficulty": 2,
+      "targetKeys": [
+        "a",
+        "s",
+        "d",
+        "f",
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "asdf jkl; fdsa ;lkj asdf jkl;",
+          "type": "drill"
+        },
+        {
+          "text": "the lad asks a dad; a sad fall",
+          "type": "sentence"
+        },
+        {
+          "text": "all salads fall; all flasks fill",
+          "type": "sentence"
+        },
+        {
+          "text": "a fast lad falls; a sad dad asks",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94,
+        "targetWpm": 15
+      }
+    }
+  ]
+}
