@@ -1,0 +1,510 @@
+{
+  "part": 8,
+  "title": "Level 8 — Symbols",
+  "level": "Symbols",
+  "lessonCount": 15,
+  "lessons": [
+    {
+      "id": 86,
+      "number": 86,
+      "title": "Basic Symbols: ! @ # $",
+      "description": "Shift + number for common symbols.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        "!",
+        "@",
+        "#",
+        "$"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "!!!! @@@@ #### $$$$",
+          "type": "drill"
+        },
+        {
+          "text": "!@#$ !@#$ $#. @!",
+          "type": "drill"
+        },
+        {
+          "text": "Hello! Email me @ work.",
+          "type": "sentence"
+        },
+        {
+          "text": "Item #4 costs $12.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 87,
+      "number": 87,
+      "title": "Symbols: % ^ & *",
+      "description": "More Shift-number symbols.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        "%",
+        "^",
+        "&",
+        "*"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "%%%% ^^^^ &&&& ****",
+          "type": "drill"
+        },
+        {
+          "text": "%^&* %^&* *&^%",
+          "type": "drill"
+        },
+        {
+          "text": "Save 20% off & free shipping.",
+          "type": "sentence"
+        },
+        {
+          "text": "Use * for wildcards & ^ for power.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 88,
+      "number": 88,
+      "title": "Symbols: ( ) _ +",
+      "description": "Parentheses underscore and plus.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        "(",
+        ")",
+        "_",
+        "+"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "(((( )))) ____ ++++",
+          "type": "drill"
+        },
+        {
+          "text": "()() __++ ()__",
+          "type": "drill"
+        },
+        {
+          "text": "Call (555) 0100 for help.",
+          "type": "sentence"
+        },
+        {
+          "text": "Score is 10 + 5 = 15.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 89,
+      "number": 89,
+      "title": "Symbols: = [ ] { }",
+      "description": "Equals and brackets.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        "=",
+        "[",
+        "]",
+        "{",
+        "}"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "==== [[[[ ]]]] {{{{ }}}}",
+          "type": "drill"
+        },
+        {
+          "text": "[]{} =[] ={}",
+          "type": "drill"
+        },
+        {
+          "text": "Set x = 10 and y = 20.",
+          "type": "sentence"
+        },
+        {
+          "text": "Use [brackets] and {braces}.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 90,
+      "number": 90,
+      "title": "Symbols: | ; : ' \"",
+      "description": "Pipe colon quotes and semicolon.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        "|",
+        ";",
+        ":",
+        "'",
+        "\""
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "|||| ;;;; :::: '''' \"\"\"\"",
+          "type": "drill"
+        },
+        {
+          "text": "|;:|; \"'\"'",
+          "type": "drill"
+        },
+        {
+          "text": "He said \"Hello there.\"",
+          "type": "sentence"
+        },
+        {
+          "text": "Note: use ; to end statements.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 91,
+      "number": 91,
+      "title": "Symbols: , . < > / ?",
+      "description": "Comma period and related symbols.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [
+        ",",
+        ".",
+        "<",
+        ">",
+        "/",
+        "?"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": ",,,, .... <<<< >>>> //// ????",
+          "type": "drill"
+        },
+        {
+          "text": ",./? <>,. ?",
+          "type": "drill"
+        },
+        {
+          "text": "What time is it? Around 3 p.m.",
+          "type": "sentence"
+        },
+        {
+          "text": "Compare a < b and c > d.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 92,
+      "number": 92,
+      "title": "Email and Web Symbols",
+      "description": "Symbols common in addresses.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "user@example.com support@site.org",
+          "type": "words"
+        },
+        {
+          "text": "https://www.example.com/path",
+          "type": "words"
+        },
+        {
+          "text": "Email me at hello@typingmaster.app.",
+          "type": "sentence"
+        },
+        {
+          "text": "Visit https://learn.example.com for more.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 93,
+      "number": 93,
+      "title": "Punctuation in Sentences",
+      "description": "Natural punctuation usage.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Wait, is that correct? Yes, it is!",
+          "type": "sentence"
+        },
+        {
+          "text": "She asked, \"Are you ready?\" He nodded.",
+          "type": "sentence"
+        },
+        {
+          "text": "Buy milk, eggs, bread, and butter.",
+          "type": "sentence"
+        },
+        {
+          "text": "The meeting (scheduled for 3 p.m.) was canceled.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 94,
+      "number": 94,
+      "title": "Code-like Symbols",
+      "description": "Symbols often seen in code and markup.",
+      "level": "Symbols",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "if (x == 10) { return true; }",
+          "type": "sentence"
+        },
+        {
+          "text": "const name = \"Typing Master\";",
+          "type": "sentence"
+        },
+        {
+          "text": "array[0] = value; // comment",
+          "type": "sentence"
+        },
+        {
+          "text": "price = cost * (1 + tax);",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 95,
+      "number": 95,
+      "title": "Mixed Symbol Fluency",
+      "description": "Combine many symbols smoothly.",
+      "level": "Symbols",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Total: $45.99 (save 15%)! Order #8821.",
+          "type": "sentence"
+        },
+        {
+          "text": "Email: support@help.io | Phone: (555) 0199",
+          "type": "sentence"
+        },
+        {
+          "text": "Path: C:\\Users\\Docs\\file.txt",
+          "type": "sentence"
+        },
+        {
+          "text": "Score >= 90? Grade = \"A\" : Grade = \"B\";",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93,
+        "targetWpm": 25
+      }
+    },
+    {
+      "id": 96,
+      "number": 96,
+      "title": "Symbol Review 1",
+      "description": "Review of early symbols.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "!@#$%^&*()_+",
+          "type": "drill"
+        },
+        {
+          "text": "Hello! How are you? I am fine.",
+          "type": "sentence"
+        },
+        {
+          "text": "Price is $19.99 — save 20% today!",
+          "type": "sentence"
+        },
+        {
+          "text": "Contact: info@site.com or call #100.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 97,
+      "number": 97,
+      "title": "Symbol Review 2",
+      "description": "Brackets quotes and operators.",
+      "level": "Symbols",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "[]{}|=;:'\",.<>/?",
+          "type": "drill"
+        },
+        {
+          "text": "She said, \"Meet me at 5.\"",
+          "type": "sentence"
+        },
+        {
+          "text": "Check if (a < b) and (c > d).",
+          "type": "sentence"
+        },
+        {
+          "text": "Use {curly} and [square] brackets.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 98,
+      "number": 98,
+      "title": "Real-World Symbol Text",
+      "description": "Practical mixed symbol content.",
+      "level": "Symbols",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Invoice #4521 — Due: 08/15/2026 — Amount: $1,250.00",
+          "type": "sentence"
+        },
+        {
+          "text": "Password must include A-Z, a-z, 0-9, and !@#$.",
+          "type": "sentence"
+        },
+        {
+          "text": "URL: https://app.example.com/user?id=42&ref=home",
+          "type": "sentence"
+        },
+        {
+          "text": "Note: \"Success = preparation + opportunity.\" — Unknown",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 99,
+      "number": 99,
+      "title": "Symbol Speed Drill",
+      "description": "Push symbol typing speed carefully.",
+      "level": "Symbols",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "!@#$ %^&* ()_+ {}|: \"<>? ",
+          "type": "drill"
+        },
+        {
+          "text": "a1! b2@ c3# d4$ e5% f6^",
+          "type": "drill"
+        },
+        {
+          "text": "Quick! Type $100 @ 50% off #sale.",
+          "type": "sentence"
+        },
+        {
+          "text": "Is this correct? Yes — 100% sure!",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93,
+        "targetWpm": 22
+      }
+    },
+    {
+      "id": 100,
+      "number": 100,
+      "title": "Symbols Mastery",
+      "description": "Confirm solid symbol skills.",
+      "level": "Symbols",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Congratulations! You have reached lesson #100.",
+          "type": "sentence"
+        },
+        {
+          "text": "Symbols: ! @ # $ % ^ & * ( ) _ + = [ ] { } | ; : ' \" , . < > / ?",
+          "type": "drill"
+        },
+        {
+          "text": "Email support@typingmaster.app with questions (or feedback).",
+          "type": "sentence"
+        },
+        {
+          "text": "Next up: advanced combinations & real-world typing!",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94,
+        "targetWpm": 25
+      }
+    }
+  ]
+}
