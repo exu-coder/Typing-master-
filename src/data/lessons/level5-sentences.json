@@ -1,0 +1,190 @@
+[
+  {
+    "id": 56,
+    "number": 56,
+    "title": "Simple Sentences",
+    "description": "Begin typing complete sentences with spaces.",
+    "level": "Sentences",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the cat sat on the mat.", "type": "sentence" },
+      { "text": "she likes to read books.", "type": "sentence" },
+      { "text": "we go to school every day.", "type": "sentence" },
+      { "text": "he works hard at his job.", "type": "sentence" },
+      { "text": "they play games after class.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Space separates words. End each sentence with a period."
+  },
+  {
+    "id": 57,
+    "number": 57,
+    "title": "Sentence Rhythm",
+    "description": "Build smooth rhythm across full sentences.",
+    "level": "Sentences",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "practice makes progress when you type each day.", "type": "sentence" },
+      { "text": "keep your eyes on the screen and not on the keys.", "type": "sentence" },
+      { "text": "good posture helps you type longer without strain.", "type": "sentence" },
+      { "text": "start slow and focus on accuracy before speed.", "type": "sentence" },
+      { "text": "every keystroke builds muscle memory over time.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Maintain even timing from the first word to the last."
+  },
+  {
+    "id": 58,
+    "number": 58,
+    "title": "Questions and Answers",
+    "description": "Type simple questions and responses.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "what time is the meeting today?", "type": "sentence" },
+      { "text": "where did you put the report?", "type": "sentence" },
+      { "text": "how can i improve my typing speed?", "type": "sentence" },
+      { "text": "who will join us for the review?", "type": "sentence" },
+      { "text": "why does practice matter so much?", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Question marks use Shift + /. Practice the reach."
+  },
+  {
+    "id": 59,
+    "number": 59,
+    "title": "Descriptive Sentences",
+    "description": "Add detail with adjectives and adverbs.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the bright sun shone through the clear window.", "type": "sentence" },
+      { "text": "a quiet student typed carefully at the desk.", "type": "sentence" },
+      { "text": "strong habits form when practice is consistent.", "type": "sentence" },
+      { "text": "the long document required careful attention.", "type": "sentence" },
+      { "text": "she finished the difficult task with great skill.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Longer sentences train sustained concentration."
+  },
+  {
+    "id": 60,
+    "number": 60,
+    "title": "Connected Ideas",
+    "description": "Sentences that link ideas with connectors.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "she studied hard and she passed the test.", "type": "sentence" },
+      { "text": "he wanted to rest but he had more work to do.", "type": "sentence" },
+      { "text": "we can start now or we can wait until later.", "type": "sentence" },
+      { "text": "if you practice daily then you will improve.", "type": "sentence" },
+      { "text": "although it was late they continued typing.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Conjunctions create longer thought units."
+  },
+  {
+    "id": 61,
+    "number": 61,
+    "title": "Everyday Scenarios",
+    "description": "Sentences from daily life and work.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "please send the file before the end of the day.", "type": "sentence" },
+      { "text": "the train arrives at the station at noon.", "type": "sentence" },
+      { "text": "i need to buy milk bread and eggs at the store.", "type": "sentence" },
+      { "text": "our team meets every monday morning at nine.", "type": "sentence" },
+      { "text": "thank you for your help with the project.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Real-life content prepares you for practical typing."
+  },
+  {
+    "id": 62,
+    "number": 62,
+    "title": "Punctuation Basics",
+    "description": "Introduce commas and periods in context.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [",", "."],
+    "targetFingers": ["right-middle", "right-ring"],
+    "exercises": [
+      { "text": "yes, i can help you with that task.", "type": "sentence" },
+      { "text": "first, open the document. then, edit the text.", "type": "sentence" },
+      { "text": "she bought apples, oranges, and bananas.", "type": "sentence" },
+      { "text": "however, the results were better than expected.", "type": "sentence" },
+      { "text": "after lunch, we will review the notes.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Commas pause the reader. Periods end complete thoughts."
+  },
+  {
+    "id": 63,
+    "number": 63,
+    "title": "Mixed Sentence Practice",
+    "description": "Varied sentence structures and lengths.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "typing is a skill that improves with steady practice.", "type": "sentence" },
+      { "text": "when the hands know the keys the mind can focus on ideas.", "type": "sentence" },
+      { "text": "accuracy first. speed follows natural improvement.", "type": "sentence" },
+      { "text": "a calm mind and relaxed hands produce better results.", "type": "sentence" },
+      { "text": "set a small goal each day and celebrate small wins.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 2 },
+    "reviewMaterial": "Variety keeps practice engaging and effective."
+  },
+  {
+    "id": 64,
+    "number": 64,
+    "title": "Paragraph Introduction",
+    "description": "Type short multi-sentence paragraphs.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "learning to type well takes time and patience. start with accuracy. speed will come as your fingers learn the patterns.", "type": "paragraph" },
+      { "text": "the home row is the foundation of touch typing. keep your fingers resting there. return to home after every reach.", "type": "paragraph" },
+      { "text": "good posture supports long practice sessions. sit upright with feet flat. keep wrists level and shoulders relaxed.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 1 },
+    "reviewMaterial": "Paragraphs train sustained focus across multiple sentences."
+  },
+  {
+    "id": 65,
+    "number": 65,
+    "title": "Sentences Review",
+    "description": "Review sentence skills before Shift training.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the quick brown fox jumps over the lazy dog.", "type": "sentence" },
+      { "text": "practice daily and track your progress over time.", "type": "sentence" },
+      { "text": "when you make a mistake, correct it and continue.", "type": "sentence" },
+      { "text": "clear goals help you stay motivated during training.", "type": "sentence" },
+      { "text": "typing mastery grows from consistent small efforts.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 2 },
+    "reviewMaterial": "You are ready to add capital letters with the Shift keys."
+  }
+]
