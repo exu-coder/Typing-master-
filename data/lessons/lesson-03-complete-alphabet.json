@@ -1,0 +1,515 @@
+{
+  "part": 3,
+  "title": "Level 3 — Complete Alphabet",
+  "level": "Complete Alphabet",
+  "lessonCount": 15,
+  "lessons": [
+    {
+      "id": 26,
+      "number": 26,
+      "title": "Introducing Z and X",
+      "description": "Pinky and ring fingers reach down for Z and X.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "z",
+        "x"
+      ],
+      "targetFingers": [
+        "left-pinky",
+        "left-ring"
+      ],
+      "exercises": [
+        {
+          "text": "zzzz xxxx zzzz xxxx",
+          "type": "drill"
+        },
+        {
+          "text": "zxzx zxzx xzxz xzxz",
+          "type": "drill"
+        },
+        {
+          "text": "az sx az sx za xs za xs",
+          "type": "drill"
+        },
+        {
+          "text": "size next zoo fix",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "title": "Z and X Practice",
+      "description": "Words containing Z and X.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "z",
+        "x"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "size next zoo fix lazy",
+          "type": "words"
+        },
+        {
+          "text": "the lazy fox; a next size",
+          "type": "sentence"
+        },
+        {
+          "text": "fix the size next",
+          "type": "sentence"
+        },
+        {
+          "text": "a lazy zoo; next fix",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "title": "Introducing C and V",
+      "description": "Middle and index fingers for C and V.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "c",
+        "v"
+      ],
+      "targetFingers": [
+        "left-middle",
+        "left-index"
+      ],
+      "exercises": [
+        {
+          "text": "cccc vvvv cccc vvvv",
+          "type": "drill"
+        },
+        {
+          "text": "cvcv cvcv vcvc vcvc",
+          "type": "drill"
+        },
+        {
+          "text": "dc fv dc fv cd vf cd vf",
+          "type": "drill"
+        },
+        {
+          "text": "cave very call voice",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "title": "C and V Words",
+      "description": "Practice C and V in context.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "c",
+        "v"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "cave very call voice cover",
+          "type": "words"
+        },
+        {
+          "text": "the very voice calls",
+          "type": "sentence"
+        },
+        {
+          "text": "cover the cave carefully",
+          "type": "sentence"
+        },
+        {
+          "text": "a very clear voice",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "title": "Introducing B and N",
+      "description": "Index fingers for B and N.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "b",
+        "n"
+      ],
+      "targetFingers": [
+        "left-index",
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "bbbb nnnn bbbb nnnn",
+          "type": "drill"
+        },
+        {
+          "text": "bnbn bnbn nbnb nbnb",
+          "type": "drill"
+        },
+        {
+          "text": "fb jn fb jn bf nj bf nj",
+          "type": "drill"
+        },
+        {
+          "text": "been near band name",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "title": "B and N Practice",
+      "description": "Words with B and N.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "b",
+        "n"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "been near band name been",
+          "type": "words"
+        },
+        {
+          "text": "the band has been near",
+          "type": "sentence"
+        },
+        {
+          "text": "a new name; been near",
+          "type": "sentence"
+        },
+        {
+          "text": "bend the band near",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "title": "Introducing M",
+      "description": "Right index finger for M.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "m"
+      ],
+      "targetFingers": [
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "mmmm mmmm mmmm mmmm",
+          "type": "drill"
+        },
+        {
+          "text": "jmjm jmjm mjmj mjmj",
+          "type": "drill"
+        },
+        {
+          "text": "make time more same",
+          "type": "words"
+        },
+        {
+          "text": "make more time; same name",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "title": "Lower Row Review",
+      "description": "Review Z X C V B N M.",
+      "level": "Complete Alphabet",
+      "difficulty": 3,
+      "targetKeys": [
+        "z",
+        "x",
+        "c",
+        "v",
+        "b",
+        "n",
+        "m"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "zxcv bnm zxcv bnm",
+          "type": "drill"
+        },
+        {
+          "text": "the lazy fox jumps",
+          "type": "sentence"
+        },
+        {
+          "text": "a calm voice; next band",
+          "type": "sentence"
+        },
+        {
+          "text": "mix the next batch carefully",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "title": "Full Alphabet Drills",
+      "description": "Practice the entire alphabet.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "abcdefghijklmnopqrstuvwxyz",
+          "type": "drill"
+        },
+        {
+          "text": "the quick brown fox",
+          "type": "sentence"
+        },
+        {
+          "text": "pack my box with five dozen",
+          "type": "sentence"
+        },
+        {
+          "text": "a very lazy dog jumps high",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "title": "Alphabet Words",
+      "description": "Diverse words covering all letters.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "quick brown jumps lazy fox",
+          "type": "words"
+        },
+        {
+          "text": "the quick brown fox jumps",
+          "type": "sentence"
+        },
+        {
+          "text": "five dozen liquor jugs",
+          "type": "sentence"
+        },
+        {
+          "text": "how quickly daft jumping zebras",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "title": "Common Letter Pairs",
+      "description": "Practice frequent bigrams.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "th he in er an re on at en nd",
+          "type": "drill"
+        },
+        {
+          "text": "the then there their these",
+          "type": "words"
+        },
+        {
+          "text": "and end send trend friend",
+          "type": "words"
+        },
+        {
+          "text": "the friend sent the trend",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "title": "Alternating Hands",
+      "description": "Build speed with alternating-hand patterns.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "fj dk sl a; fj dk sl a;",
+          "type": "drill"
+        },
+        {
+          "text": "the land is fair and just",
+          "type": "sentence"
+        },
+        {
+          "text": "she can type with both hands",
+          "type": "sentence"
+        },
+        {
+          "text": "a fast and fair land",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94,
+        "targetWpm": 22
+      }
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "title": "Same-Hand Combos",
+      "description": "Practice same-hand letter sequences carefully.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "as df er ty ui op",
+          "type": "drill"
+        },
+        {
+          "text": "was were where when what",
+          "type": "words"
+        },
+        {
+          "text": "where were the words written",
+          "type": "sentence"
+        },
+        {
+          "text": "what was written there",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "title": "Full Alphabet Sentences",
+      "description": "Natural sentences using the full alphabet.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the quick brown fox jumps over the lazy dog",
+          "type": "sentence"
+        },
+        {
+          "text": "pack my box with five dozen liquor jugs",
+          "type": "sentence"
+        },
+        {
+          "text": "how quickly daft jumping zebras vex",
+          "type": "sentence"
+        },
+        {
+          "text": "the five boxing wizards jump quickly",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94,
+        "targetWpm": 24
+      }
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "title": "Alphabet Mastery",
+      "description": "Confirm full alphabet fluency.",
+      "level": "Complete Alphabet",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "a quick movement of the enemy will jeopardize six gunboats",
+          "type": "sentence"
+        },
+        {
+          "text": "heavy boxes perform quick waltzes and jigs",
+          "type": "sentence"
+        },
+        {
+          "text": "the wizard quickly jinxed the gnomes before they vaporized",
+          "type": "sentence"
+        },
+        {
+          "text": "all questions asked by five watch experts amazed the judge",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 25
+      }
+    }
+  ]
+}
