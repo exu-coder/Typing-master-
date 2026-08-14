@@ -1,0 +1,304 @@
+{
+  "part": 5,
+  "title": "Level 5 — Sentences",
+  "level": "Sentences",
+  "lessonCount": 10,
+  "lessons": [
+    {
+      "id": 56,
+      "number": 56,
+      "title": "Simple Sentences",
+      "description": "Introduce full sentences with spaces.",
+      "level": "Sentences",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The cat sat on the mat.",
+          "type": "sentence"
+        },
+        {
+          "text": "A bird flew over the tree.",
+          "type": "sentence"
+        },
+        {
+          "text": "She reads a book every day.",
+          "type": "sentence"
+        },
+        {
+          "text": "He walks to the park after lunch.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 57,
+      "number": 57,
+      "title": "Capitalization Basics",
+      "description": "Practice starting sentences with capitals.",
+      "level": "Sentences",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Typing is a valuable skill.",
+          "type": "sentence"
+        },
+        {
+          "text": "Practice makes progress over time.",
+          "type": "sentence"
+        },
+        {
+          "text": "Focus on accuracy before speed.",
+          "type": "sentence"
+        },
+        {
+          "text": "Good posture helps prevent strain.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 58,
+      "number": 58,
+      "title": "Periods and Spaces",
+      "description": "Clean sentence endings and spacing.",
+      "level": "Sentences",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Keep your fingers on the home row. Return after each key.",
+          "type": "sentence"
+        },
+        {
+          "text": "Look at the screen. Do not look at the keys.",
+          "type": "sentence"
+        },
+        {
+          "text": "Type with a steady rhythm. Avoid rushing.",
+          "type": "sentence"
+        },
+        {
+          "text": "Rest your wrists lightly. Stay relaxed.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 59,
+      "number": 59,
+      "title": "Short Paragraphs",
+      "description": "Type connected sentences as a paragraph.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Learning to type well takes time and patience. Start slow and focus on hitting the right keys. Speed comes naturally with practice.",
+          "type": "paragraph"
+        },
+        {
+          "text": "The home row is the foundation of touch typing. Keep your fingers resting on A S D F and J K L semicolon. Reach for other keys and return.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 60,
+      "number": 60,
+      "title": "Descriptive Sentences",
+      "description": "Richer vocabulary in sentence form.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The quick brown fox jumps over the lazy dog near the river.",
+          "type": "sentence"
+        },
+        {
+          "text": "Bright sunlight filtered through the tall oak trees in the quiet park.",
+          "type": "sentence"
+        },
+        {
+          "text": "She carefully arranged the colorful books on the wooden shelf.",
+          "type": "sentence"
+        },
+        {
+          "text": "A gentle breeze carried the scent of fresh flowers across the garden.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 61,
+      "number": 61,
+      "title": "Dialogue Practice",
+      "description": "Simple quoted dialogue (no shift yet for quotes).",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Hello said the teacher. Welcome to class.",
+          "type": "sentence"
+        },
+        {
+          "text": "How are you today asked the friend.",
+          "type": "sentence"
+        },
+        {
+          "text": "I am fine thank you replied the student.",
+          "type": "sentence"
+        },
+        {
+          "text": "Let us begin the lesson said the instructor.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 62,
+      "number": 62,
+      "title": "Instructional Text",
+      "description": "Type clear instructional sentences.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Place both hands on the keyboard with fingers curved.",
+          "type": "sentence"
+        },
+        {
+          "text": "Keep your eyes on the text and trust your muscle memory.",
+          "type": "sentence"
+        },
+        {
+          "text": "Press each key firmly but without unnecessary force.",
+          "type": "sentence"
+        },
+        {
+          "text": "Return your fingers to the home row after every stretch.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 63,
+      "number": 63,
+      "title": "Narrative Sentences",
+      "description": "Short story-style sentences.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The young traveler packed a small bag and left at dawn.",
+          "type": "sentence"
+        },
+        {
+          "text": "After many miles the path opened into a green valley.",
+          "type": "sentence"
+        },
+        {
+          "text": "Birds sang in the branches as sunlight warmed the ground.",
+          "type": "sentence"
+        },
+        {
+          "text": "It was a perfect day to begin a new adventure.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 64,
+      "number": 64,
+      "title": "Mixed Sentence Practice",
+      "description": "Varied sentence structures.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Although it was raining they decided to walk to the store.",
+          "type": "sentence"
+        },
+        {
+          "text": "If you practice every day you will notice steady improvement.",
+          "type": "sentence"
+        },
+        {
+          "text": "Because accuracy matters most begin each session slowly.",
+          "type": "sentence"
+        },
+        {
+          "text": "When the timer starts focus only on the current character.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 32
+      }
+    },
+    {
+      "id": 65,
+      "number": 65,
+      "title": "Sentence Mastery",
+      "description": "Confirm comfortable sentence typing.",
+      "level": "Sentences",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Touch typing frees your eyes to stay on the screen while your fingers find the keys automatically.",
+          "type": "paragraph"
+        },
+        {
+          "text": "With consistent practice the awkward stretches become natural movements and your speed increases without sacrificing accuracy.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 32
+      }
+    }
+  ]
+}
