@@ -1,0 +1,2077 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "title": "Home Row: F and J",
+    "description": "Learn the home position keys F and J. Place your index fingers on these keys.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["f", "j"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "ffff jjjj ffff jjjj", "type": "drill" },
+      { "text": "fjfj fjfj jfjf jfjf", "type": "drill" },
+      { "text": "ff jj ff jj fj jf fj jf", "type": "drill" },
+      { "text": "ffff jjjj fjfj jfjf ffff", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 }
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "title": "Home Row: D and K",
+    "description": "Add D and K under your middle fingers.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["d", "k", "f", "j"],
+    "targetFingers": ["left-middle", "right-middle"],
+    "exercises": [
+      { "text": "dddd kkkk dddd kkkk", "type": "drill" },
+      { "text": "dkdk dkdk kdkd kdkd", "type": "drill" },
+      { "text": "df jk df jk fd kj fd kj", "type": "drill" },
+      { "text": "ddkk kkdd dfjk jkdf", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 }
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "title": "Home Row: S and L",
+    "description": "Place ring fingers on S and L.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["s", "l", "d", "k", "f", "j"],
+    "targetFingers": ["left-ring", "right-ring"],
+    "exercises": [
+      { "text": "ssss llll ssss llll", "type": "drill" },
+      { "text": "slsl slsl lsls lsls", "type": "drill" },
+      { "text": "sd lk sd lk ds kl ds kl", "type": "drill" },
+      { "text": "ssll llss sdfj jkls", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 }
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "title": "Home Row: A and Semicolon",
+    "description": "Pinky fingers on A and semicolon (;).",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["a", ";", "s", "l", "d", "k", "f", "j"],
+    "targetFingers": ["left-pinky", "right-pinky"],
+    "exercises": [
+      { "text": "aaaa ;;;; aaaa ;;;;", "type": "drill" },
+      { "text": "a;a; a;a; ;a;a ;a;a", "type": "drill" },
+      { "text": "as ;l as ;l sa l; sa l;", "type": "drill" },
+      { "text": "asdf jkl; asdf jkl;", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 }
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "title": "Full Home Row",
+    "description": "Practice the entire home row: A S D F J K L ;",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "asdf jkl; asdf jkl;", "type": "drill" },
+      { "text": "asdfjkl; asdfjkl;", "type": "drill" },
+      { "text": "fdsa ;lkj fdsa ;lkj", "type": "drill" },
+      { "text": "a s d f j k l ; a s d f", "type": "drill" },
+      { "text": "asdf ;lkj asdf ;lkj asdf", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 }
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "title": "Home Row Combinations",
+    "description": "Build fluency with home row combinations.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "sad lad fad dad jak", "type": "words" },
+      { "text": "ask flask salad salad", "type": "words" },
+      { "text": "fall jacks flasks dads", "type": "words" },
+      { "text": "a sad lad falls; a lad asks", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 }
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "title": "Left Hand Focus",
+    "description": "Strengthen left-hand home row keys.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index"],
+    "exercises": [
+      { "text": "asdf asdf asdf asdf", "type": "drill" },
+      { "text": "afds afds dsaf dsaf", "type": "drill" },
+      { "text": "sad fad dad as ads", "type": "words" },
+      { "text": "a sad dad adds a fad", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "title": "Right Hand Focus",
+    "description": "Strengthen right-hand home row keys.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["j", "k", "l", ";"],
+    "targetFingers": ["right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "jkl; jkl; jkl; jkl;", "type": "drill" },
+      { "text": "j;lk j;lk ;klj ;klj", "type": "drill" },
+      { "text": "jak lark; jak lark;", "type": "words" },
+      { "text": "jill; jack; jill; jack", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "title": "Home Row Words",
+    "description": "Type real words using only home row keys.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "ask sad lad fad jak flask", "type": "words" },
+      { "text": "salad falls flasks dads lads", "type": "words" },
+      { "text": "a sad lad asks; a dad falls", "type": "sentence" },
+      { "text": "all lads ask; all dads fall", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "title": "Home Row Mastery",
+    "description": "Master the home row before moving on.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "asdf jkl; fdsa ;lkj asdf jkl;", "type": "drill" },
+      { "text": "the lad asks a dad; a sad fall", "type": "sentence" },
+      { "text": "all salads fall; all flasks fill", "type": "sentence" },
+      { "text": "a fast lad falls; a sad dad asks", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 15 }
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "title": "Introducing G and H",
+    "description": "Reach up slightly for G and H with your index fingers.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["g", "h", "a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "gggg hhhh gggg hhhh", "type": "drill" },
+      { "text": "ghgh ghgh hghg hghg", "type": "drill" },
+      { "text": "fg hj fg hj gf jh gf jh", "type": "drill" },
+      { "text": "gash half glass flash", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "title": "G and H Words",
+    "description": "Practice words with G and H.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["g", "h"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "had has gas ash glad", "type": "words" },
+      { "text": "half glass flash gash", "type": "words" },
+      { "text": "a glad lad has a glass", "type": "sentence" },
+      { "text": "she had a half glass", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "title": "Introducing R and U",
+    "description": "Reach up for R (left index) and U (right index).",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["r", "u"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "rrrr uuuu rrrr uuuu", "type": "drill" },
+      { "text": "ruru ruru urur urur", "type": "drill" },
+      { "text": "fr ju fr ju rf uj rf uj", "type": "drill" },
+      { "text": "fur jar hard rush", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "title": "R and U Practice",
+    "description": "Combine R and U with home row.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["r", "u"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "hard rush fur jar dark", "type": "words" },
+      { "text": "a hard rush; a dark jar", "type": "sentence" },
+      { "text": "she had a hard fall", "type": "sentence" },
+      { "text": "rush hard; dark fur", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "title": "Introducing E and I",
+    "description": "Middle fingers reach for E and I.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["e", "i"],
+    "targetFingers": ["left-middle", "right-middle"],
+    "exercises": [
+      { "text": "eeee iiii eeee iiii", "type": "drill" },
+      { "text": "eiei eiei ieie ieie", "type": "drill" },
+      { "text": "de ki de ki ed ik ed ik", "type": "drill" },
+      { "text": "see like feel field", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "title": "E and I Words",
+    "description": "Practice common words with E and I.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["e", "i"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "see feel like field side", "type": "words" },
+      { "text": "she likes the field", "type": "sentence" },
+      { "text": "he feels like a kid", "type": "sentence" },
+      { "text": "see the side field", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "title": "Introducing W and O",
+    "description": "Ring fingers reach for W and O.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["w", "o"],
+    "targetFingers": ["left-ring", "right-ring"],
+    "exercises": [
+      { "text": "wwww oooo wwww oooo", "type": "drill" },
+      { "text": "wowo wowo owow owow", "type": "drill" },
+      { "text": "sw lo sw lo ws ol ws ol", "type": "drill" },
+      { "text": "word low slow flow", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "title": "W and O Practice",
+    "description": "Words and short phrases with W and O.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["w", "o"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "word low slow flow world", "type": "words" },
+      { "text": "a slow word; a low flow", "type": "sentence" },
+      { "text": "we saw a low world", "type": "sentence" },
+      { "text": "show the slow flow", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "title": "Introducing Q and P",
+    "description": "Pinky fingers reach for Q and P.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "p"],
+    "targetFingers": ["left-pinky", "right-pinky"],
+    "exercises": [
+      { "text": "qqqq pppp qqqq pppp", "type": "drill" },
+      { "text": "qpqp qpqp pqpq pqpq", "type": "drill" },
+      { "text": "aq ;p aq ;p qa p; qa p;", "type": "drill" },
+      { "text": "quit please equal apple", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "title": "Q and P Practice",
+    "description": "Practice the less common Q and P keys.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "p"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "quit please equal apple quiet", "type": "words" },
+      { "text": "please quit the equal path", "type": "sentence" },
+      { "text": "a quiet apple; please quit", "type": "sentence" },
+      { "text": "she quit; please be quiet", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "title": "Introducing T and Y",
+    "description": "Index fingers reach for T and Y.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["t", "y"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "tttt yyyy tttt yyyy", "type": "drill" },
+      { "text": "tyty tyty ytyt ytyt", "type": "drill" },
+      { "text": "ft jy ft jy tf yj tf yj", "type": "drill" },
+      { "text": "they that type style", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "title": "T and Y Words",
+    "description": "Common words featuring T and Y.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["t", "y"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "they that type style try", "type": "words" },
+      { "text": "they try that style", "type": "sentence" },
+      { "text": "the type they try", "type": "sentence" },
+      { "text": "try that type; they say", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "title": "Upper Row Review",
+    "description": "Review all upper-row letters learned so far.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "qwerty uiop qwerty uiop", "type": "drill" },
+      { "text": "type write power quiet", "type": "words" },
+      { "text": "they write quiet power", "type": "sentence" },
+      { "text": "please type the quiet word", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "targetWpm": 18 }
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "title": "Mixed Letter Practice",
+    "description": "Combine home row and upper row fluently.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the quick word is power", "type": "sentence" },
+      { "text": "she writes a quiet letter", "type": "sentence" },
+      { "text": "they feel the hard power", "type": "sentence" },
+      { "text": "a quiet field; a slow path", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "title": "Basic Letters Mastery",
+    "description": "Confirm mastery of home and upper rows.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the fast lad writes a quiet letter", "type": "sentence" },
+      { "text": "please type the power word", "type": "sentence" },
+      { "text": "they all feel the hard style", "type": "sentence" },
+      { "text": "a quiet world; a slow field path", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 20 }
+  },
+  {
+    "id": 26,
+    "number": 26,
+    "title": "Introducing Z and X",
+    "description": "Pinky and ring fingers reach down for Z and X.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["z", "x"],
+    "targetFingers": ["left-pinky", "left-ring"],
+    "exercises": [
+      { "text": "zzzz xxxx zzzz xxxx", "type": "drill" },
+      { "text": "zxzx zxzx xzxz xzxz", "type": "drill" },
+      { "text": "az sx az sx za xs za xs", "type": "drill" },
+      { "text": "size next zoo fix", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "title": "Z and X Practice",
+    "description": "Words containing Z and X.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["z", "x"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "size next zoo fix lazy", "type": "words" },
+      { "text": "the lazy fox; a next size", "type": "sentence" },
+      { "text": "fix the size next", "type": "sentence" },
+      { "text": "a lazy zoo; next fix", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "title": "Introducing C and V",
+    "description": "Middle and index fingers for C and V.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["c", "v"],
+    "targetFingers": ["left-middle", "left-index"],
+    "exercises": [
+      { "text": "cccc vvvv cccc vvvv", "type": "drill" },
+      { "text": "cvcv cvcv vcvc vcvc", "type": "drill" },
+      { "text": "dc fv dc fv cd vf cd vf", "type": "drill" },
+      { "text": "cave very call voice", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 29,
+    "number": 29,
+    "title": "C and V Words",
+    "description": "Practice C and V in context.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["c", "v"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "cave very call voice cover", "type": "words" },
+      { "text": "the very voice calls", "type": "sentence" },
+      { "text": "cover the cave carefully", "type": "sentence" },
+      { "text": "a very clear voice", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 30,
+    "number": 30,
+    "title": "Introducing B and N",
+    "description": "Index fingers for B and N.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["b", "n"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "bbbb nnnn bbbb nnnn", "type": "drill" },
+      { "text": "bnbn bnbn nbnb nbnb", "type": "drill" },
+      { "text": "fb jn fb jn bf nj bf nj", "type": "drill" },
+      { "text": "been near band name", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 31,
+    "number": 31,
+    "title": "B and N Practice",
+    "description": "Words with B and N.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["b", "n"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "been near band name been", "type": "words" },
+      { "text": "the band has been near", "type": "sentence" },
+      { "text": "a new name; been near", "type": "sentence" },
+      { "text": "bend the band near", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 32,
+    "number": 32,
+    "title": "Introducing M",
+    "description": "Right index finger for M.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["m"],
+    "targetFingers": ["right-index"],
+    "exercises": [
+      { "text": "mmmm mmmm mmmm mmmm", "type": "drill" },
+      { "text": "jmjm jmjm mjmj mjmj", "type": "drill" },
+      { "text": "make time more same", "type": "words" },
+      { "text": "make more time; same name", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 33,
+    "number": 33,
+    "title": "Lower Row Review",
+    "description": "Review Z X C V B N M.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["z", "x", "c", "v", "b", "n", "m"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "zxcv bnm zxcv bnm", "type": "drill" },
+      { "text": "the lazy fox jumps", "type": "sentence" },
+      { "text": "a calm voice; next band", "type": "sentence" },
+      { "text": "mix the next batch carefully", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 34,
+    "number": 34,
+    "title": "Full Alphabet Drills",
+    "description": "Practice the entire alphabet.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "abcdefghijklmnopqrstuvwxyz", "type": "drill" },
+      { "text": "the quick brown fox", "type": "sentence" },
+      { "text": "pack my box with five dozen", "type": "sentence" },
+      { "text": "a very lazy dog jumps high", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 35,
+    "number": 35,
+    "title": "Alphabet Words",
+    "description": "Diverse words covering all letters.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "quick brown jumps lazy fox", "type": "words" },
+      { "text": "the quick brown fox jumps", "type": "sentence" },
+      { "text": "five dozen liquor jugs", "type": "sentence" },
+      { "text": "how quickly daft jumping zebras", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "title": "Common Letter Pairs",
+    "description": "Practice frequent bigrams.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "th he in er an re on at en nd", "type": "drill" },
+      { "text": "the then there their these", "type": "words" },
+      { "text": "and end send trend friend", "type": "words" },
+      { "text": "the friend sent the trend", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 37,
+    "number": 37,
+    "title": "Alternating Hands",
+    "description": "Build speed with alternating-hand patterns.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "fj dk sl a; fj dk sl a;", "type": "drill" },
+      { "text": "the land is fair and just", "type": "sentence" },
+      { "text": "she can type with both hands", "type": "sentence" },
+      { "text": "a fast and fair land", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 22 }
+  },
+  {
+    "id": 38,
+    "number": 38,
+    "title": "Same-Hand Combos",
+    "description": "Practice same-hand letter sequences carefully.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "as df er ty ui op", "type": "drill" },
+      { "text": "was were where when what", "type": "words" },
+      { "text": "where were the words written", "type": "sentence" },
+      { "text": "what was written there", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 39,
+    "number": 39,
+    "title": "Full Alphabet Sentences",
+    "description": "Natural sentences using the full alphabet.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the quick brown fox jumps over the lazy dog", "type": "sentence" },
+      { "text": "pack my box with five dozen liquor jugs", "type": "sentence" },
+      { "text": "how quickly daft jumping zebras vex", "type": "sentence" },
+      { "text": "the five boxing wizards jump quickly", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 24 }
+  },
+  {
+    "id": 40,
+    "number": 40,
+    "title": "Alphabet Mastery",
+    "description": "Confirm full alphabet fluency.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "a quick movement of the enemy will jeopardize six gunboats", "type": "sentence" },
+      { "text": "heavy boxes perform quick waltzes and jigs", "type": "sentence" },
+      { "text": "the wizard quickly jinxed the gnomes before they vaporized", "type": "sentence" },
+      { "text": "all questions asked by five watch experts amazed the judge", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 25 }
+  },
+  {
+    "id": 41,
+    "number": 41,
+    "title": "Common Words: the, and, you",
+    "description": "Master the most frequent English words.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the and you the and you", "type": "words" },
+      { "text": "the and you that this with", "type": "words" },
+      { "text": "you and the others", "type": "sentence" },
+      { "text": "the one and you", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 42,
+    "number": 42,
+    "title": "Common Words: that, this, with",
+    "description": "Practice high-frequency connectors.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "that this with from have they", "type": "words" },
+      { "text": "that this with that this with", "type": "words" },
+      { "text": "this is the one with that", "type": "sentence" },
+      { "text": "they have that with them", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 43,
+    "number": 43,
+    "title": "Common Words: from, have, they",
+    "description": "Continue building core vocabulary.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "from have they will your what", "type": "words" },
+      { "text": "they have from will your", "type": "words" },
+      { "text": "they will have your what", "type": "sentence" },
+      { "text": "what will they have from you", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 44,
+    "number": 44,
+    "title": "Common Words: will, your, what",
+    "description": "More essential everyday words.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "will your what when where which", "type": "words" },
+      { "text": "what will your when where", "type": "words" },
+      { "text": "what will you do when", "type": "sentence" },
+      { "text": "where will your which be", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 45,
+    "number": 45,
+    "title": "Top 20 Words",
+    "description": "Drill the twenty most common English words.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the be to of and a in that have i", "type": "words" },
+      { "text": "it for not on with he as you do at", "type": "words" },
+      { "text": "the be to of and a in that have", "type": "words" },
+      { "text": "it is for you and not for me", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 46,
+    "number": 46,
+    "title": "Everyday Verbs",
+    "description": "Practice common action words.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "make take come go see know get give find think", "type": "words" },
+      { "text": "make take come go see", "type": "words" },
+      { "text": "they make and take and come", "type": "sentence" },
+      { "text": "go see and know the way", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 47,
+    "number": 47,
+    "title": "Time Words",
+    "description": "Words related to time and sequence.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "time day year way when now then before after", "type": "words" },
+      { "text": "the day and the year", "type": "sentence" },
+      { "text": "now and then before after", "type": "sentence" },
+      { "text": "when is the time and the day", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 48,
+    "number": 48,
+    "title": "People Words",
+    "description": "Words about people and relationships.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "people person man woman child friend family", "type": "words" },
+      { "text": "a person and a friend", "type": "sentence" },
+      { "text": "the family and the child", "type": "sentence" },
+      { "text": "people need friends and family", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 49,
+    "number": 49,
+    "title": "Place Words",
+    "description": "Common location and place terms.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "place home house room city town world country", "type": "words" },
+      { "text": "the home and the house", "type": "sentence" },
+      { "text": "a room in the city", "type": "sentence" },
+      { "text": "the world and the country", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 50,
+    "number": 50,
+    "title": "Mixed Common Words",
+    "description": "Fluency drill with mixed high-frequency words.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the people of the world have the power", "type": "sentence" },
+      { "text": "you will find the way when you look", "type": "sentence" },
+      { "text": "they have been here from the start", "type": "sentence" },
+      { "text": "what will you do with your time", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 28 }
+  },
+  {
+    "id": 51,
+    "number": 51,
+    "title": "Short Phrases",
+    "description": "Type natural short phrases smoothly.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "on the way in the end at the time", "type": "sentence" },
+      { "text": "for the most part in the long run", "type": "sentence" },
+      { "text": "as a matter of fact by the way", "type": "sentence" },
+      { "text": "at the same time in other words", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 52,
+    "number": 52,
+    "title": "Question Words",
+    "description": "Who, what, when, where, why, how.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "who what when where why how", "type": "words" },
+      { "text": "who is it and what do they want", "type": "sentence" },
+      { "text": "when and where will they go", "type": "sentence" },
+      { "text": "why and how did it happen", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 53,
+    "number": 53,
+    "title": "Connecting Words",
+    "description": "Conjunctions and transition words.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "and but or so because if then also", "type": "words" },
+      { "text": "and then but also because if", "type": "words" },
+      { "text": "if you go then i will also go", "type": "sentence" },
+      { "text": "because of that so we will wait", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 54,
+    "number": 54,
+    "title": "Word Flow Practice",
+    "description": "Maintain rhythm across word sequences.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the more you practice the better you become", "type": "sentence" },
+      { "text": "every day is a chance to improve your skill", "type": "sentence" },
+      { "text": "focus on accuracy first and speed will follow", "type": "sentence" },
+      { "text": "consistent practice builds lasting muscle memory", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 30 }
+  },
+  {
+    "id": 55,
+    "number": 55,
+    "title": "Common Words Mastery",
+    "description": "Final check of high-frequency vocabulary.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the best way to learn is to practice every day", "type": "sentence" },
+      { "text": "you will see progress when you stay consistent", "type": "sentence" },
+      { "text": "accuracy matters more than raw speed at first", "type": "sentence" },
+      { "text": "build good habits and the results will come", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 30 }
+  },
+  {
+    "id": 56,
+    "number": 56,
+    "title": "Simple Sentences",
+    "description": "Introduce full sentences with spaces.",
+    "level": "Sentences",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The cat sat on the mat.", "type": "sentence" },
+      { "text": "A bird flew over the tree.", "type": "sentence" },
+      { "text": "She reads a book every day.", "type": "sentence" },
+      { "text": "He walks to the park after lunch.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 57,
+    "number": 57,
+    "title": "Capitalization Basics",
+    "description": "Practice starting sentences with capitals.",
+    "level": "Sentences",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Typing is a valuable skill.", "type": "sentence" },
+      { "text": "Practice makes progress over time.", "type": "sentence" },
+      { "text": "Focus on accuracy before speed.", "type": "sentence" },
+      { "text": "Good posture helps prevent strain.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 58,
+    "number": 58,
+    "title": "Periods and Spaces",
+    "description": "Clean sentence endings and spacing.",
+    "level": "Sentences",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Keep your fingers on the home row. Return after each key.", "type": "sentence" },
+      { "text": "Look at the screen. Do not look at the keys.", "type": "sentence" },
+      { "text": "Type with a steady rhythm. Avoid rushing.", "type": "sentence" },
+      { "text": "Rest your wrists lightly. Stay relaxed.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 59,
+    "number": 59,
+    "title": "Short Paragraphs",
+    "description": "Type connected sentences as a paragraph.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Learning to type well takes time and patience. Start slow and focus on hitting the right keys. Speed comes naturally with practice.", "type": "paragraph" },
+      { "text": "The home row is the foundation of touch typing. Keep your fingers resting on A S D F and J K L semicolon. Reach for other keys and return.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 60,
+    "number": 60,
+    "title": "Descriptive Sentences",
+    "description": "Richer vocabulary in sentence form.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The quick brown fox jumps over the lazy dog near the river.", "type": "sentence" },
+      { "text": "Bright sunlight filtered through the tall oak trees in the quiet park.", "type": "sentence" },
+      { "text": "She carefully arranged the colorful books on the wooden shelf.", "type": "sentence" },
+      { "text": "A gentle breeze carried the scent of fresh flowers across the garden.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 61,
+    "number": 61,
+    "title": "Dialogue Practice",
+    "description": "Simple quoted dialogue (no shift yet for quotes).",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Hello said the teacher. Welcome to class.", "type": "sentence" },
+      { "text": "How are you today asked the friend.", "type": "sentence" },
+      { "text": "I am fine thank you replied the student.", "type": "sentence" },
+      { "text": "Let us begin the lesson said the instructor.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 62,
+    "number": 62,
+    "title": "Instructional Text",
+    "description": "Type clear instructional sentences.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Place both hands on the keyboard with fingers curved.", "type": "sentence" },
+      { "text": "Keep your eyes on the text and trust your muscle memory.", "type": "sentence" },
+      { "text": "Press each key firmly but without unnecessary force.", "type": "sentence" },
+      { "text": "Return your fingers to the home row after every stretch.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 63,
+    "number": 63,
+    "title": "Narrative Sentences",
+    "description": "Short story-style sentences.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The young traveler packed a small bag and left at dawn.", "type": "sentence" },
+      { "text": "After many miles the path opened into a green valley.", "type": "sentence" },
+      { "text": "Birds sang in the branches as sunlight warmed the ground.", "type": "sentence" },
+      { "text": "It was a perfect day to begin a new adventure.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 64,
+    "number": 64,
+    "title": "Mixed Sentence Practice",
+    "description": "Varied sentence structures.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Although it was raining they decided to walk to the store.", "type": "sentence" },
+      { "text": "If you practice every day you will notice steady improvement.", "type": "sentence" },
+      { "text": "Because accuracy matters most begin each session slowly.", "type": "sentence" },
+      { "text": "When the timer starts focus only on the current character.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 32 }
+  },
+  {
+    "id": 65,
+    "number": 65,
+    "title": "Sentence Mastery",
+    "description": "Confirm comfortable sentence typing.",
+    "level": "Sentences",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Touch typing frees your eyes to stay on the screen while your fingers find the keys automatically.", "type": "paragraph" },
+      { "text": "With consistent practice the awkward stretches become natural movements and your speed increases without sacrificing accuracy.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 32 }
+  },
+  {
+    "id": 66,
+    "number": 66,
+    "title": "Right Shift Introduction",
+    "description": "Use right Shift for left-hand capital letters.",
+    "level": "Shift Training",
+    "difficulty": 3,
+    "targetKeys": ["A", "S", "D", "F", "G", "Q", "W", "E", "R", "T", "Z", "X", "C", "V", "B"],
+    "targetFingers": ["right-pinky"],
+    "exercises": [
+      { "text": "A A A A S S S S D D D D", "type": "drill" },
+      { "text": "Aaa Sss Ddd Fff Ggg", "type": "drill" },
+      { "text": "Apple Snake Door Fish", "type": "words" },
+      { "text": "All Students Do Fine", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 67,
+    "number": 67,
+    "title": "Left Shift Introduction",
+    "description": "Use left Shift for right-hand capital letters.",
+    "level": "Shift Training",
+    "difficulty": 3,
+    "targetKeys": ["H", "J", "K", "L", "Y", "U", "I", "O", "P", "N", "M"],
+    "targetFingers": ["left-pinky"],
+    "exercises": [
+      { "text": "H H H H J J J J K K K K", "type": "drill" },
+      { "text": "Hhh Jjj Kkk Lll", "type": "drill" },
+      { "text": "Hello Jump Keep Learn", "type": "words" },
+      { "text": "Hello Jumping Kids Learn", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 68,
+    "number": 68,
+    "title": "Alternating Shift",
+    "description": "Switch between left and right Shift correctly.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Aa Hh Ss Jj Dd Kk Ff Ll", "type": "drill" },
+      { "text": "The Quick Brown Fox", "type": "sentence" },
+      { "text": "Hello World From Typing", "type": "sentence" },
+      { "text": "Practice Makes Progress", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 69,
+    "number": 69,
+    "title": "Capitalized Words",
+    "description": "Proper nouns and sentence starts.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Monday Tuesday Wednesday Thursday Friday", "type": "words" },
+      { "text": "January February March April May June", "type": "words" },
+      { "text": "London Paris Tokyo New York", "type": "words" },
+      { "text": "The Meeting Is On Monday In London", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 70,
+    "number": 70,
+    "title": "Title Case Practice",
+    "description": "Capitalize important words in titles.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The Art Of Touch Typing", "type": "sentence" },
+      { "text": "Building Speed And Accuracy", "type": "sentence" },
+      { "text": "A Guide To Better Posture", "type": "sentence" },
+      { "text": "Mastering The Home Row Keys", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 71,
+    "number": 71,
+    "title": "Mixed Case Sentences",
+    "description": "Natural sentences with internal capitals.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Dr. Smith visited New York last Monday.", "type": "sentence" },
+      { "text": "The company is called Bright Future Inc.", "type": "sentence" },
+      { "text": "Please meet me at Central Park on Saturday.", "type": "sentence" },
+      { "text": "Professor Lee teaches History and English.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 72,
+    "number": 72,
+    "title": "Acronyms and Initials",
+    "description": "Type short sequences of capitals.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "USA UK EU UN NASA FBI CIA", "type": "words" },
+      { "text": "HTML CSS JSON API HTTP", "type": "words" },
+      { "text": "The USA and the UK are allies.", "type": "sentence" },
+      { "text": "Learn HTML CSS and JSON basics.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 73,
+    "number": 73,
+    "title": "Names and Places",
+    "description": "Proper names requiring Shift.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Alice Bob Carol David Emma Frank", "type": "words" },
+      { "text": "Berlin Madrid Rome Athens Cairo", "type": "words" },
+      { "text": "Alice and Bob visited Berlin last spring.", "type": "sentence" },
+      { "text": "Carol met David near the Rome station.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 74,
+    "number": 74,
+    "title": "Shift Fluency",
+    "description": "Smooth capital letters without hesitation.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The Quick Brown Fox Jumps Over The Lazy Dog.", "type": "sentence" },
+      { "text": "Please Type Each Capital Letter Correctly.", "type": "sentence" },
+      { "text": "Shift Keys Should Feel Natural With Practice.", "type": "sentence" },
+      { "text": "Always Use The Opposite Hand For Shift.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 28 }
+  },
+  {
+    "id": 75,
+    "number": 75,
+    "title": "Shift Mastery",
+    "description": "Confirm confident Shift usage.",
+    "level": "Shift Training",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Typing Master Helps You Build Speed Accuracy And Muscle Memory.", "type": "sentence" },
+      { "text": "Every Lesson Moves You Closer To Becoming A Confident Typist.", "type": "sentence" },
+      { "text": "Remember To Keep Your Eyes On The Screen At All Times.", "type": "sentence" },
+      { "text": "Congratulations On Reaching The End Of Shift Training.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 30 }
+  },
+  {
+    "id": 76,
+    "number": 76,
+    "title": "Number Row: 1 2 3 4 5",
+    "description": "Left-hand number keys.",
+    "level": "Number Row",
+    "difficulty": 3,
+    "targetKeys": ["1", "2", "3", "4", "5"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index"],
+    "exercises": [
+      { "text": "1111 2222 3333 4444 5555", "type": "drill" },
+      { "text": "12345 12345 54321 54321", "type": "drill" },
+      { "text": "12 23 34 45 54 43 32 21", "type": "drill" },
+      { "text": "123 234 345 543 432 321", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 77,
+    "number": 77,
+    "title": "Number Row: 6 7 8 9 0",
+    "description": "Right-hand number keys.",
+    "level": "Number Row",
+    "difficulty": 3,
+    "targetKeys": ["6", "7", "8", "9", "0"],
+    "targetFingers": ["right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "6666 7777 8888 9999 0000", "type": "drill" },
+      { "text": "67890 67890 09876 09876", "type": "drill" },
+      { "text": "67 78 89 90 09 98 87 76", "type": "drill" },
+      { "text": "678 789 890 098 987 876", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 78,
+    "number": 78,
+    "title": "Full Number Row",
+    "description": "All digits from 1 to 0.",
+    "level": "Number Row",
+    "difficulty": 3,
+    "targetKeys": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "1234567890 1234567890", "type": "drill" },
+      { "text": "0987654321 0987654321", "type": "drill" },
+      { "text": "13579 24680 13579 24680", "type": "drill" },
+      { "text": "1122334455 6677889900", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 79,
+    "number": 79,
+    "title": "Number Combinations",
+    "description": "Realistic number sequences.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "2024 2025 2026 1999 2000", "type": "drill" },
+      { "text": "123 456 789 321 654 987", "type": "drill" },
+      { "text": "10 20 30 40 50 60 70 80 90", "type": "drill" },
+      { "text": "100 200 300 400 500 1000", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 80,
+    "number": 80,
+    "title": "Dates and Years",
+    "description": "Type common date formats.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "01 02 03 04 05 06 07 08 09 10", "type": "drill" },
+      { "text": "15 16 17 18 19 20 21 22 23 24", "type": "drill" },
+      { "text": "2020 2021 2022 2023 2024 2025 2026", "type": "drill" },
+      { "text": "The year is 2026 and the day is 14.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 81,
+    "number": 81,
+    "title": "Phone-like Sequences",
+    "description": "Practice longer number strings.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "5551234 5559876 8005551212", "type": "drill" },
+      { "text": "1234567890 0987654321", "type": "drill" },
+      { "text": "Call 555 0100 for more info.", "type": "sentence" },
+      { "text": "The code is 4829 and the pin is 1738.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 82,
+    "number": 82,
+    "title": "Mixed Letters and Numbers",
+    "description": "Alternate between letters and digits.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "a1 b2 c3 d4 e5 f6 g7 h8", "type": "drill" },
+      { "text": "room 101 floor 2 door 34", "type": "sentence" },
+      { "text": "The order number is A47B92.", "type": "sentence" },
+      { "text": "Meet at gate 12 at 3 pm.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 83,
+    "number": 83,
+    "title": "Numeric Data Entry",
+    "description": "Simulate data-entry style number typing.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "100 250 375 500 625 750 875 1000", "type": "drill" },
+      { "text": "12.5 25.0 37.5 50.0 62.5 75.0", "type": "drill" },
+      { "text": "Item 1 costs 12 and item 2 costs 25.", "type": "sentence" },
+      { "text": "Total for 3 items is 48 dollars.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 84,
+    "number": 84,
+    "title": "Number Fluency",
+    "description": "Build speed and confidence on the number row.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "1234567890 0987654321 1357924680", "type": "drill" },
+      { "text": "The meeting is at 14 30 in room 204.", "type": "sentence" },
+      { "text": "Invoice number 78432 was paid on 03 15.", "type": "sentence" },
+      { "text": "Please confirm the code 918273 before 17 00.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 25 }
+  },
+  {
+    "id": 85,
+    "number": 85,
+    "title": "Number Row Mastery",
+    "description": "Final number-row check.",
+    "level": "Number Row",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Order 4521 for customer 883 includes 12 units at 9 each.", "type": "sentence" },
+      { "text": "The event starts at 18 00 on 08 14 2026 in hall 3.", "type": "sentence" },
+      { "text": "Enter pin 6042 then code 7719 to unlock the safe.", "type": "sentence" },
+      { "text": "Report shows 156 new users and 23 upgrades this week.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 28 }
+  },
+  {
+    "id": 86,
+    "number": 86,
+    "title": "Basic Symbols: ! @ # $",
+    "description": "Shift + number for common symbols.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": ["!", "@", "#", "$"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "!!!! @@@@ #### $$$$", "type": "drill" },
+      { "text": "!@#$ !@#$ $#. @!", "type": "drill" },
+      { "text": "Hello! Email me @ work.", "type": "sentence" },
+      { "text": "Item #4 costs $12.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 87,
+    "number": 87,
+    "title": "Symbols: % ^ & *",
+    "description": "More Shift-number symbols.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": ["%", "^", "&", "*"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "%%%% ^^^^ &&&& ****", "type": "drill" },
+      { "text": "%^&* %^&* *&^%", "type": "drill" },
+      { "text": "Save 20% off & free shipping.", "type": "sentence" },
+      { "text": "Use * for wildcards & ^ for power.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 88,
+    "number": 88,
+    "title": "Symbols: ( ) _ +",
+    "description": "Parentheses underscore and plus.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": ["(", ")", "_", "+"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "(((( )))) ____ ++++", "type": "drill" },
+      { "text": "()() __++ ()__", "type": "drill" },
+      { "text": "Call (555) 0100 for help.", "type": "sentence" },
+      { "text": "Score is 10 + 5 = 15.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 89,
+    "number": 89,
+    "title": "Symbols: = [ ] { }",
+    "description": "Equals and brackets.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": ["=", "[", "]", "{", "}"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "==== [[[[ ]]]] {{{{ }}}}", "type": "drill" },
+      { "text": "[]{} =[] ={}", "type": "drill" },
+      { "text": "Set x = 10 and y = 20.", "type": "sentence" },
+      { "text": "Use [brackets] and {braces}.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 90,
+    "number": 90,
+    "title": "Symbols: | ; : ' \"",
+    "description": "Pipe colon quotes and semicolon.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": ["|", ";", ":", "'", "\""],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "|||| ;;;; :::: '''' \"\"\"\"", "type": "drill" },
+      { "text": "|;:|; \"'\"'", "type": "drill" },
+      { "text": "He said \"Hello there.\"", "type": "sentence" },
+      { "text": "Note: use ; to end statements.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90 }
+  },
+  {
+    "id": 91,
+    "number": 91,
+    "title": "Symbols: , . < > / ?",
+    "description": "Comma period and related symbols.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": [",", ".", "<", ">", "/", "?"],
+    "targetFingers": [],
+    "exercises": [
+      { "text": ",,,, .... <<<< >>>> //// ????", "type": "drill" },
+      { "text": ",./? <>,. ?", "type": "drill" },
+      { "text": "What time is it? Around 3 p.m.", "type": "sentence" },
+      { "text": "Compare a < b and c > d.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 92,
+    "number": 92,
+    "title": "Email and Web Symbols",
+    "description": "Symbols common in addresses.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "user@example.com support@site.org", "type": "words" },
+      { "text": "https://www.example.com/path", "type": "words" },
+      { "text": "Email me at hello@typingmaster.app.", "type": "sentence" },
+      { "text": "Visit https://learn.example.com for more.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 93,
+    "number": 93,
+    "title": "Punctuation in Sentences",
+    "description": "Natural punctuation usage.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Wait, is that correct? Yes, it is!", "type": "sentence" },
+      { "text": "She asked, \"Are you ready?\" He nodded.", "type": "sentence" },
+      { "text": "Buy milk, eggs, bread, and butter.", "type": "sentence" },
+      { "text": "The meeting (scheduled for 3 p.m.) was canceled.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 94,
+    "number": 94,
+    "title": "Code-like Symbols",
+    "description": "Symbols often seen in code and markup.",
+    "level": "Symbols",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "if (x == 10) { return true; }", "type": "sentence" },
+      { "text": "const name = \"Typing Master\";", "type": "sentence" },
+      { "text": "array[0] = value; // comment", "type": "sentence" },
+      { "text": "price = cost * (1 + tax);", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92 }
+  },
+  {
+    "id": 95,
+    "number": 95,
+    "title": "Mixed Symbol Fluency",
+    "description": "Combine many symbols smoothly.",
+    "level": "Symbols",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Total: $45.99 (save 15%)! Order #8821.", "type": "sentence" },
+      { "text": "Email: support@help.io | Phone: (555) 0199", "type": "sentence" },
+      { "text": "Path: C:\\Users\\Docs\\file.txt", "type": "sentence" },
+      { "text": "Score >= 90? Grade = \"A\" : Grade = \"B\";", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "targetWpm": 25 }
+  },
+  {
+    "id": 96,
+    "number": 96,
+    "title": "Symbol Review 1",
+    "description": "Review of early symbols.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "!@#$%^&*()_+", "type": "drill" },
+      { "text": "Hello! How are you? I am fine.", "type": "sentence" },
+      { "text": "Price is $19.99 — save 20% today!", "type": "sentence" },
+      { "text": "Contact: info@site.com or call #100.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 97,
+    "number": 97,
+    "title": "Symbol Review 2",
+    "description": "Brackets quotes and operators.",
+    "level": "Symbols",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "[]{}|=;:'\",.<>/?", "type": "drill" },
+      { "text": "She said, \"Meet me at 5.\"", "type": "sentence" },
+      { "text": "Check if (a < b) and (c > d).", "type": "sentence" },
+      { "text": "Use {curly} and [square] brackets.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 98,
+    "number": 98,
+    "title": "Real-World Symbol Text",
+    "description": "Practical mixed symbol content.",
+    "level": "Symbols",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Invoice #4521 — Due: 08/15/2026 — Amount: $1,250.00", "type": "sentence" },
+      { "text": "Password must include A-Z, a-z, 0-9, and !@#$.", "type": "sentence" },
+      { "text": "URL: https://app.example.com/user?id=42&ref=home", "type": "sentence" },
+      { "text": "Note: \"Success = preparation + opportunity.\" — Unknown", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 99,
+    "number": 99,
+    "title": "Symbol Speed Drill",
+    "description": "Push symbol typing speed carefully.",
+    "level": "Symbols",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "!@#$ %^&* ()_+ {}|: \"<>? ", "type": "drill" },
+      { "text": "a1! b2@ c3# d4$ e5% f6^", "type": "drill" },
+      { "text": "Quick! Type $100 @ 50% off #sale.", "type": "sentence" },
+      { "text": "Is this correct? Yes — 100% sure!", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "targetWpm": 22 }
+  },
+  {
+    "id": 100,
+    "number": 100,
+    "title": "Symbols Mastery",
+    "description": "Confirm solid symbol skills.",
+    "level": "Symbols",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Congratulations! You have reached lesson #100.", "type": "sentence" },
+      { "text": "Symbols: ! @ # $ % ^ & * ( ) _ + = [ ] { } | ; : ' \" , . < > / ?", "type": "drill" },
+      { "text": "Email support@typingmaster.app with questions (or feedback).", "type": "sentence" },
+      { "text": "Next up: advanced combinations & real-world typing!", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "targetWpm": 25 }
+  },
+  {
+    "id": 101,
+    "number": 101,
+    "title": "Common Bigrams",
+    "description": "High-frequency two-letter combinations.",
+    "level": "Advanced Combinations",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "th he in er an re on at en nd", "type": "drill" },
+      { "text": "the then there their these those", "type": "words" },
+      { "text": "and end send trend friend", "type": "words" },
+      { "text": "the friend sent the trend there", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 102,
+    "number": 102,
+    "title": "Common Trigrams",
+    "description": "Three-letter patterns that appear often.",
+    "level": "Advanced Combinations",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the and ing ion ent for", "type": "drill" },
+      { "text": "ing ion ent ati for tha", "type": "drill" },
+      { "text": "thinking about the situation", "type": "sentence" },
+      { "text": "the important information is ready", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 103,
+    "number": 103,
+    "title": "Alternating Hand Speed",
+    "description": "Maximize speed with balanced hand use.",
+    "level": "Advanced Combinations",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the land is fair and just for all", "type": "sentence" },
+      { "text": "she can type with both hands well", "type": "sentence" },
+      { "text": "a fast and fair land for people", "type": "sentence" },
+      { "text": "work with both hands for better speed", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 35 }
+  },
+  {
+    "id": 104,
+    "number": 104,
+    "title": "Same-Hand Challenges",
+    "description": "Difficult same-hand sequences.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "was were where when what who why", "type": "words" },
+      { "text": "minimum aluminum maximum", "type": "words" },
+      { "text": "where were the words written when", "type": "sentence" },
+      { "text": "the minimum and maximum values", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 105,
+    "number": 105,
+    "title": "Punctuation Transitions",
+    "description": "Smooth movement into and out of punctuation.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Yes, that is correct. No, wait!", "type": "sentence" },
+      { "text": "Really? Are you sure? Positive!", "type": "sentence" },
+      { "text": "Stop; think; then act carefully.", "type": "sentence" },
+      { "text": "Items: apples, oranges, and pears.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 106,
+    "number": 106,
+    "title": "Numbers and Letters",
+    "description": "Fluid switching between digits and letters.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Room 204 is on floor 2 near exit 3.", "type": "sentence" },
+      { "text": "Order A47 includes 12 units of item B9.", "type": "sentence" },
+      { "text": "Meet at gate 12 at 3 pm sharp.", "type": "sentence" },
+      { "text": "The code is X7Y2 and the pin is 4831.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 107,
+    "number": 107,
+    "title": "Uppercase and Punctuation",
+    "description": "Capitals combined with punctuation marks.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Dr. Lee said, \"Meet at 5 p.m.\"", "type": "sentence" },
+      { "text": "Wow! That was amazing, right?", "type": "sentence" },
+      { "text": "Please RSVP by Friday, March 15.", "type": "sentence" },
+      { "text": "The USA, UK, and EU agreed.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 108,
+    "number": 108,
+    "title": "Difficult Transitions",
+    "description": "Keys that are commonly mistyped together.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "quit quiet quite quote", "type": "words" },
+      { "text": "their there they're", "type": "words" },
+      { "text": "affect effect accept except", "type": "words" },
+      { "text": "The quiet quote was quite good.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 109,
+    "number": 109,
+    "title": "Speed Bursts",
+    "description": "Short high-speed accuracy bursts.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the and for you are not but with", "type": "words" },
+      { "text": "practice every day for best results", "type": "sentence" },
+      { "text": "focus on the next character only", "type": "sentence" },
+      { "text": "speed comes after accuracy is solid", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 40 }
+  },
+  {
+    "id": 110,
+    "number": 110,
+    "title": "Advanced Combinations Mastery",
+    "description": "Integrate all combination skills.",
+    "level": "Advanced Combinations",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The advanced typist moves fluidly between letters, numbers, and symbols without hesitation.", "type": "paragraph" },
+      { "text": "Practice the hard combinations until they feel as natural as the home row keys.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 38 }
+  },
+  {
+    "id": 111,
+    "number": 111,
+    "title": "Paragraph Practice 1",
+    "description": "Sustained typing of a short paragraph.",
+    "level": "Real-World Typing",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Touch typing is the ability to type without looking at the keyboard. It relies on muscle memory built through consistent practice. The foundation is the home row position where your fingers rest between keystrokes.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 112,
+    "number": 112,
+    "title": "Paragraph Practice 2",
+    "description": "Another sustained paragraph.",
+    "level": "Real-World Typing",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "When you first start learning to touch type, progress can feel slow. You may make many mistakes and feel tempted to look down at the keys. Resist that urge. Looking at the screen trains your fingers to find the correct keys on their own.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 113,
+    "number": 113,
+    "title": "Email Style Text",
+    "description": "Practice typing a professional email.",
+    "level": "Real-World Typing",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Dear Team, I hope this message finds you well. Please review the attached report and share your feedback by Friday. Let me know if you have any questions. Best regards, Alex", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 114,
+    "number": 114,
+    "title": "Business Text",
+    "description": "Formal business writing practice.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The quarterly results exceeded expectations. Revenue grew by twelve percent compared to the previous period. Customer satisfaction scores also improved across all product lines. We will discuss the details in the next strategy meeting.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95 }
+  },
+  {
+    "id": 115,
+    "number": 115,
+    "title": "Technical Text",
+    "description": "Documentation-style technical content.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "To install the application, download the latest release from the official website. Extract the archive to your preferred directory. Open a terminal and run the setup script. Follow the on-screen prompts to complete the configuration.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 116,
+    "number": 116,
+    "title": "Dialogue and Quotes",
+    "description": "Conversational text with quotation marks.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "\"Are you ready for the test?\" she asked. \"I think so,\" he replied. \"Just remember to stay calm and focus on accuracy first.\" \"That is good advice,\" he said with a smile.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 117,
+    "number": 117,
+    "title": "Mixed Real-World Content",
+    "description": "Numbers, symbols, and prose together.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Order #78432 was placed on 08/10/2026 for $249.99. The customer requested delivery by 08/15. Tracking number: TRK-99281. Contact support@shop.example.com with questions.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 94 }
+  },
+  {
+    "id": 118,
+    "number": 118,
+    "title": "Long-Form Practice",
+    "description": "Extended paragraph for endurance.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Becoming a skilled typist is similar to learning a musical instrument. At first every movement requires conscious effort. Over time the patterns become automatic. Regular short practice sessions are more effective than occasional long ones. Aim for accuracy above all else; speed is a natural byproduct of clean technique. Keep your posture upright, wrists relaxed, and eyes on the text. Celebrate small improvements and stay patient with the process.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 35 }
+  },
+  {
+    "id": 119,
+    "number": 119,
+    "title": "Professional Writing",
+    "description": "Polished professional paragraph.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Effective communication depends on clarity and precision. Choose words carefully and structure sentences so the main idea appears early. Support claims with evidence when appropriate. Revise for tone, grammar, and flow before sharing your work with others. Strong writing skills complement strong typing skills in nearly every professional field.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 96 }
+  },
+  {
+    "id": 120,
+    "number": 120,
+    "title": "Final Challenge",
+    "description": "A comprehensive real-world typing challenge.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Congratulations on reaching the final lesson of Typing Master! You have practiced home row foundations, the full alphabet, common words, sentences, shift combinations, numbers, symbols, and advanced patterns. Continue to review weak keys, take regular timed tests, and maintain a consistent practice habit. Build speed. Build accuracy. Build muscle memory. The journey of a skilled typist never truly ends — it only improves with every keystroke.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 40 }
+  },
+  {
+    "id": 121,
+    "number": 121,
+    "title": "Bonus: Speed Focus",
+    "description": "Push your WPM while holding accuracy.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "The only way to improve typing speed is through deliberate practice with immediate feedback. Focus on the next character, keep a steady rhythm, and let your fingers learn the patterns.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 45 }
+  },
+  {
+    "id": 122,
+    "number": 122,
+    "title": "Bonus: Accuracy Focus",
+    "description": "Prioritize near-perfect accuracy.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Accuracy is the foundation of good typing. Every error costs time because you must correct it. Train yourself to type the correct key the first time. Slow down if needed. Clean technique produces lasting speed.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 98 }
+  },
+  {
+    "id": 123,
+    "number": 123,
+    "title": "Bonus: Mixed Endurance",
+    "description": "Longer mixed content for stamina.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Modern work demands confident keyboard skills. Whether you write emails, fill forms, take notes, or write code, the ability to type quickly and accurately saves time and reduces frustration. Typing Master was designed to take you from complete beginner to capable typist using progressive lessons, clear feedback, and local progress tracking. All of your data stays on this device. Practice regularly, review weak keys, and enjoy the process of improvement.", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 95, "targetWpm": 38 }
+  },
+  {
+    "id": 124,
+    "number": 124,
+    "title": "Bonus: Symbol Heavy",
+    "description": "A final symbol-intensive challenge.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "Config: host=\"localhost\"; port=8080; debug=true; // TODO: set production values. Contact: admin@example.com | Docs: https://docs.example.com/v2. Price: $49.99 (save 15%!).", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 93 }
+  },
+  {
+    "id": 125,
+    "number": 125,
+    "title": "Graduation Lesson",
+    "description": "Celebrate completing the full course.",
+    "level": "Real-World Typing",
+    "difficulty": 5,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "You have completed the Typing Master curriculum. From the first home-row drills to advanced real-world paragraphs, you have built a solid foundation in touch typing. Keep practicing, stay curious, and remember the tagline: Build Speed. Build Accuracy. Build Muscle Memory. Well done!", "type": "paragraph" }
+    ],
+    "requirements": { "accuracy": 96, "targetWpm": 40 }
+  }
+]
