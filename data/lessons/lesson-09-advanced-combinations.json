@@ -1,0 +1,313 @@
+{
+  "part": 9,
+  "title": "Level 9 — Advanced Combinations",
+  "level": "Advanced Combinations",
+  "lessonCount": 10,
+  "lessons": [
+    {
+      "id": 101,
+      "number": 101,
+      "title": "Common Bigrams",
+      "description": "High-frequency two-letter combinations.",
+      "level": "Advanced Combinations",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "th he in er an re on at en nd",
+          "type": "drill"
+        },
+        {
+          "text": "the then there their these those",
+          "type": "words"
+        },
+        {
+          "text": "and end send trend friend",
+          "type": "words"
+        },
+        {
+          "text": "the friend sent the trend there",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 102,
+      "number": 102,
+      "title": "Common Trigrams",
+      "description": "Three-letter patterns that appear often.",
+      "level": "Advanced Combinations",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the and ing ion ent for",
+          "type": "drill"
+        },
+        {
+          "text": "ing ion ent ati for tha",
+          "type": "drill"
+        },
+        {
+          "text": "thinking about the situation",
+          "type": "sentence"
+        },
+        {
+          "text": "the important information is ready",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 103,
+      "number": 103,
+      "title": "Alternating Hand Speed",
+      "description": "Maximize speed with balanced hand use.",
+      "level": "Advanced Combinations",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the land is fair and just for all",
+          "type": "sentence"
+        },
+        {
+          "text": "she can type with both hands well",
+          "type": "sentence"
+        },
+        {
+          "text": "a fast and fair land for people",
+          "type": "sentence"
+        },
+        {
+          "text": "work with both hands for better speed",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 35
+      }
+    },
+    {
+      "id": 104,
+      "number": 104,
+      "title": "Same-Hand Challenges",
+      "description": "Difficult same-hand sequences.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "was were where when what who why",
+          "type": "words"
+        },
+        {
+          "text": "minimum aluminum maximum",
+          "type": "words"
+        },
+        {
+          "text": "where were the words written when",
+          "type": "sentence"
+        },
+        {
+          "text": "the minimum and maximum values",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 105,
+      "number": 105,
+      "title": "Punctuation Transitions",
+      "description": "Smooth movement into and out of punctuation.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Yes, that is correct. No, wait!",
+          "type": "sentence"
+        },
+        {
+          "text": "Really? Are you sure? Positive!",
+          "type": "sentence"
+        },
+        {
+          "text": "Stop; think; then act carefully.",
+          "type": "sentence"
+        },
+        {
+          "text": "Items: apples, oranges, and pears.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 106,
+      "number": 106,
+      "title": "Numbers and Letters",
+      "description": "Fluid switching between digits and letters.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Room 204 is on floor 2 near exit 3.",
+          "type": "sentence"
+        },
+        {
+          "text": "Order A47 includes 12 units of item B9.",
+          "type": "sentence"
+        },
+        {
+          "text": "Meet at gate 12 at 3 pm sharp.",
+          "type": "sentence"
+        },
+        {
+          "text": "The code is X7Y2 and the pin is 4831.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 107,
+      "number": 107,
+      "title": "Uppercase and Punctuation",
+      "description": "Capitals combined with punctuation marks.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Dr. Lee said, \"Meet at 5 p.m.\"",
+          "type": "sentence"
+        },
+        {
+          "text": "Wow! That was amazing, right?",
+          "type": "sentence"
+        },
+        {
+          "text": "Please RSVP by Friday, March 15.",
+          "type": "sentence"
+        },
+        {
+          "text": "The USA, UK, and EU agreed.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 108,
+      "number": 108,
+      "title": "Difficult Transitions",
+      "description": "Keys that are commonly mistyped together.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "quit quiet quite quote",
+          "type": "words"
+        },
+        {
+          "text": "their there they're",
+          "type": "words"
+        },
+        {
+          "text": "affect effect accept except",
+          "type": "words"
+        },
+        {
+          "text": "The quiet quote was quite good.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 109,
+      "number": 109,
+      "title": "Speed Bursts",
+      "description": "Short high-speed accuracy bursts.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the and for you are not but with",
+          "type": "words"
+        },
+        {
+          "text": "practice every day for best results",
+          "type": "sentence"
+        },
+        {
+          "text": "focus on the next character only",
+          "type": "sentence"
+        },
+        {
+          "text": "speed comes after accuracy is solid",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 40
+      }
+    },
+    {
+      "id": 110,
+      "number": 110,
+      "title": "Advanced Combinations Mastery",
+      "description": "Integrate all combination skills.",
+      "level": "Advanced Combinations",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The advanced typist moves fluidly between letters, numbers, and symbols without hesitation.",
+          "type": "paragraph"
+        },
+        {
+          "text": "Practice the hard combinations until they feel as natural as the home row keys.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 38
+      }
+    }
+  ]
+}
