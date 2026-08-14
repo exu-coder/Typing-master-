@@ -1,0 +1,352 @@
+{
+  "part": 6,
+  "title": "Level 6 — Shift Training",
+  "level": "Shift Training",
+  "lessonCount": 10,
+  "lessons": [
+    {
+      "id": 66,
+      "number": 66,
+      "title": "Right Shift Introduction",
+      "description": "Use right Shift for left-hand capital letters.",
+      "level": "Shift Training",
+      "difficulty": 3,
+      "targetKeys": [
+        "A",
+        "S",
+        "D",
+        "F",
+        "G",
+        "Q",
+        "W",
+        "E",
+        "R",
+        "T",
+        "Z",
+        "X",
+        "C",
+        "V",
+        "B"
+      ],
+      "targetFingers": [
+        "right-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "A A A A S S S S D D D D",
+          "type": "drill"
+        },
+        {
+          "text": "Aaa Sss Ddd Fff Ggg",
+          "type": "drill"
+        },
+        {
+          "text": "Apple Snake Door Fish",
+          "type": "words"
+        },
+        {
+          "text": "All Students Do Fine",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 67,
+      "number": 67,
+      "title": "Left Shift Introduction",
+      "description": "Use left Shift for right-hand capital letters.",
+      "level": "Shift Training",
+      "difficulty": 3,
+      "targetKeys": [
+        "H",
+        "J",
+        "K",
+        "L",
+        "Y",
+        "U",
+        "I",
+        "O",
+        "P",
+        "N",
+        "M"
+      ],
+      "targetFingers": [
+        "left-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "H H H H J J J J K K K K",
+          "type": "drill"
+        },
+        {
+          "text": "Hhh Jjj Kkk Lll",
+          "type": "drill"
+        },
+        {
+          "text": "Hello Jump Keep Learn",
+          "type": "words"
+        },
+        {
+          "text": "Hello Jumping Kids Learn",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 68,
+      "number": 68,
+      "title": "Alternating Shift",
+      "description": "Switch between left and right Shift correctly.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Aa Hh Ss Jj Dd Kk Ff Ll",
+          "type": "drill"
+        },
+        {
+          "text": "The Quick Brown Fox",
+          "type": "sentence"
+        },
+        {
+          "text": "Hello World From Typing",
+          "type": "sentence"
+        },
+        {
+          "text": "Practice Makes Progress",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 69,
+      "number": 69,
+      "title": "Capitalized Words",
+      "description": "Proper nouns and sentence starts.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Monday Tuesday Wednesday Thursday Friday",
+          "type": "words"
+        },
+        {
+          "text": "January February March April May June",
+          "type": "words"
+        },
+        {
+          "text": "London Paris Tokyo New York",
+          "type": "words"
+        },
+        {
+          "text": "The Meeting Is On Monday In London",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 70,
+      "number": 70,
+      "title": "Title Case Practice",
+      "description": "Capitalize important words in titles.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The Art Of Touch Typing",
+          "type": "sentence"
+        },
+        {
+          "text": "Building Speed And Accuracy",
+          "type": "sentence"
+        },
+        {
+          "text": "A Guide To Better Posture",
+          "type": "sentence"
+        },
+        {
+          "text": "Mastering The Home Row Keys",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 71,
+      "number": 71,
+      "title": "Mixed Case Sentences",
+      "description": "Natural sentences with internal capitals.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Dr. Smith visited New York last Monday.",
+          "type": "sentence"
+        },
+        {
+          "text": "The company is called Bright Future Inc.",
+          "type": "sentence"
+        },
+        {
+          "text": "Please meet me at Central Park on Saturday.",
+          "type": "sentence"
+        },
+        {
+          "text": "Professor Lee teaches History and English.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 72,
+      "number": 72,
+      "title": "Acronyms and Initials",
+      "description": "Type short sequences of capitals.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "USA UK EU UN NASA FBI CIA",
+          "type": "words"
+        },
+        {
+          "text": "HTML CSS JSON API HTTP",
+          "type": "words"
+        },
+        {
+          "text": "The USA and the UK are allies.",
+          "type": "sentence"
+        },
+        {
+          "text": "Learn HTML CSS and JSON basics.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 73,
+      "number": 73,
+      "title": "Names and Places",
+      "description": "Proper names requiring Shift.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Alice Bob Carol David Emma Frank",
+          "type": "words"
+        },
+        {
+          "text": "Berlin Madrid Rome Athens Cairo",
+          "type": "words"
+        },
+        {
+          "text": "Alice and Bob visited Berlin last spring.",
+          "type": "sentence"
+        },
+        {
+          "text": "Carol met David near the Rome station.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 74,
+      "number": 74,
+      "title": "Shift Fluency",
+      "description": "Smooth capital letters without hesitation.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The Quick Brown Fox Jumps Over The Lazy Dog.",
+          "type": "sentence"
+        },
+        {
+          "text": "Please Type Each Capital Letter Correctly.",
+          "type": "sentence"
+        },
+        {
+          "text": "Shift Keys Should Feel Natural With Practice.",
+          "type": "sentence"
+        },
+        {
+          "text": "Always Use The Opposite Hand For Shift.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 28
+      }
+    },
+    {
+      "id": 75,
+      "number": 75,
+      "title": "Shift Mastery",
+      "description": "Confirm confident Shift usage.",
+      "level": "Shift Training",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Typing Master Helps You Build Speed Accuracy And Muscle Memory.",
+          "type": "sentence"
+        },
+        {
+          "text": "Every Lesson Moves You Closer To Becoming A Confident Typist.",
+          "type": "sentence"
+        },
+        {
+          "text": "Remember To Keep Your Eyes On The Screen At All Times.",
+          "type": "sentence"
+        },
+        {
+          "text": "Congratulations On Reaching The End Of Shift Training.",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 30
+      }
+    }
+  ]
+}
