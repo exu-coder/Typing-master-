@@ -1,0 +1,298 @@
+{
+  "part": 10,
+  "title": "Level 10 — Real-World Typing",
+  "level": "Real-World Typing",
+  "lessonCount": 15,
+  "lessons": [
+    {
+      "id": 111,
+      "number": 111,
+      "title": "Paragraph Practice 1",
+      "description": "Sustained typing of a short paragraph.",
+      "level": "Real-World Typing",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Touch typing is the ability to type without looking at the keyboard. It relies on muscle memory built through consistent practice. The foundation is the home row position where your fingers rest between keystrokes.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 112,
+      "number": 112,
+      "title": "Paragraph Practice 2",
+      "description": "Another sustained paragraph.",
+      "level": "Real-World Typing",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "When you first start learning to touch type, progress can feel slow. You may make many mistakes and feel tempted to look down at the keys. Resist that urge. Looking at the screen trains your fingers to find the correct keys on their own.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 113,
+      "number": 113,
+      "title": "Email Style Text",
+      "description": "Practice typing a professional email.",
+      "level": "Real-World Typing",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Dear Team, I hope this message finds you well. Please review the attached report and share your feedback by Friday. Let me know if you have any questions. Best regards, Alex",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 114,
+      "number": 114,
+      "title": "Business Text",
+      "description": "Formal business writing practice.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The quarterly results exceeded expectations. Revenue grew by twelve percent compared to the previous period. Customer satisfaction scores also improved across all product lines. We will discuss the details in the next strategy meeting.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 115,
+      "number": 115,
+      "title": "Technical Text",
+      "description": "Documentation-style technical content.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "To install the application, download the latest release from the official website. Extract the archive to your preferred directory. Open a terminal and run the setup script. Follow the on-screen prompts to complete the configuration.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 116,
+      "number": 116,
+      "title": "Dialogue and Quotes",
+      "description": "Conversational text with quotation marks.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "\"Are you ready for the test?\" she asked. \"I think so,\" he replied. \"Just remember to stay calm and focus on accuracy first.\" \"That is good advice,\" he said with a smile.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 117,
+      "number": 117,
+      "title": "Mixed Real-World Content",
+      "description": "Numbers, symbols, and prose together.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Order #78432 was placed on 08/10/2026 for $249.99. The customer requested delivery by 08/15. Tracking number: TRK-99281. Contact support@shop.example.com with questions.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 118,
+      "number": 118,
+      "title": "Long-Form Practice",
+      "description": "Extended paragraph for endurance.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Becoming a skilled typist is similar to learning a musical instrument. At first every movement requires conscious effort. Over time the patterns become automatic. Regular short practice sessions are more effective than occasional long ones. Aim for accuracy above all else; speed is a natural byproduct of clean technique. Keep your posture upright, wrists relaxed, and eyes on the text. Celebrate small improvements and stay patient with the process.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 35
+      }
+    },
+    {
+      "id": 119,
+      "number": 119,
+      "title": "Professional Writing",
+      "description": "Polished professional paragraph.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Effective communication depends on clarity and precision. Choose words carefully and structure sentences so the main idea appears early. Support claims with evidence when appropriate. Revise for tone, grammar, and flow before sharing your work with others. Strong writing skills complement strong typing skills in nearly every professional field.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96
+      }
+    },
+    {
+      "id": 120,
+      "number": 120,
+      "title": "Final Challenge",
+      "description": "A comprehensive real-world typing challenge.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Congratulations on reaching the final lesson of Typing Master! You have practiced home row foundations, the full alphabet, common words, sentences, shift combinations, numbers, symbols, and advanced patterns. Continue to review weak keys, take regular timed tests, and maintain a consistent practice habit. Build speed. Build accuracy. Build muscle memory. The journey of a skilled typist never truly ends — it only improves with every keystroke.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 40
+      }
+    },
+    {
+      "id": 121,
+      "number": 121,
+      "title": "Bonus: Speed Focus",
+      "description": "Push your WPM while holding accuracy.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "The only way to improve typing speed is through deliberate practice with immediate feedback. Focus on the next character, keep a steady rhythm, and let your fingers learn the patterns.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 45
+      }
+    },
+    {
+      "id": 122,
+      "number": 122,
+      "title": "Bonus: Accuracy Focus",
+      "description": "Prioritize near-perfect accuracy.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Accuracy is the foundation of good typing. Every error costs time because you must correct it. Train yourself to type the correct key the first time. Slow down if needed. Clean technique produces lasting speed.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 98
+      }
+    },
+    {
+      "id": 123,
+      "number": 123,
+      "title": "Bonus: Mixed Endurance",
+      "description": "Longer mixed content for stamina.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Modern work demands confident keyboard skills. Whether you write emails, fill forms, take notes, or write code, the ability to type quickly and accurately saves time and reduces frustration. Typing Master was designed to take you from complete beginner to capable typist using progressive lessons, clear feedback, and local progress tracking. All of your data stays on this device. Practice regularly, review weak keys, and enjoy the process of improvement.",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 38
+      }
+    },
+    {
+      "id": 124,
+      "number": 124,
+      "title": "Bonus: Symbol Heavy",
+      "description": "A final symbol-intensive challenge.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "Config: host=\"localhost\"; port=8080; debug=true; // TODO: set production values. Contact: admin@example.com | Docs: https://docs.example.com/v2. Price: $49.99 (save 15%!).",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 125,
+      "number": 125,
+      "title": "Graduation Lesson",
+      "description": "Celebrate completing the full course.",
+      "level": "Real-World Typing",
+      "difficulty": 5,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "You have completed the Typing Master curriculum. From the first home-row drills to advanced real-world paragraphs, you have built a solid foundation in touch typing. Keep practicing, stay curious, and remember the tagline: Build Speed. Build Accuracy. Build Muscle Memory. Well done!",
+          "type": "paragraph"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 40
+      }
+    }
+  ]
+}
