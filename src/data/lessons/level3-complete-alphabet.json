@@ -1,0 +1,287 @@
+[
+  {
+    "id": 26,
+    "number": 26,
+    "title": "Bottom Row: V and N",
+    "description": "Introduce V and N. Left index reaches down to V, right index to N.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["v", "n", "f", "j"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "vvvv nnnn vvvv nnnn", "type": "drill" },
+      { "text": "fvfv jnjn fvfv jnjn", "type": "drill" },
+      { "text": "vnvn vnvn nvnv nvnv", "type": "drill" },
+      { "text": "van van van and and and even even", "type": "words" },
+      { "text": "a van; a van; even now; even now;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Index fingers dip down to V and N, then return to F and J."
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "title": "Bottom Row: B and M",
+    "description": "Add B and M. Left index on B, right index on M.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["b", "m", "f", "j", "v", "n"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "bbbb mmmm bbbb mmmm", "type": "drill" },
+      { "text": "fbfb jmjm fbfb jmjm", "type": "drill" },
+      { "text": "bmbm bmbm mbmb mbmb", "type": "drill" },
+      { "text": "be be be me me me from from", "type": "words" },
+      { "text": "be me; be me; from me; from me;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "B and M are reached by the same index fingers that handle V and N."
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "title": "Bottom Row: C and Comma",
+    "description": "Introduce C and the comma. Left middle finger on C, right middle on comma.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["c", ",", "d", "k"],
+    "targetFingers": ["left-middle", "right-middle"],
+    "exercises": [
+      { "text": "cccc ,,,, cccc ,,,,", "type": "drill" },
+      { "text": "dcdc k,k, dcdc k,k,", "type": "drill" },
+      { "text": "c,c, c,c, ,c,c ,c,c", "type": "drill" },
+      { "text": "can can can call call, call,", "type": "words" },
+      { "text": "can you, can you, call me,", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Middle fingers reach down. Comma is used often in English."
+  },
+  {
+    "id": 29,
+    "number": 29,
+    "title": "Bottom Row: X and Period",
+    "description": "Add X and the period. Left ring on X, right ring on period.",
+    "level": "Complete Alphabet",
+    "difficulty": 3,
+    "targetKeys": ["x", ".", "s", "l"],
+    "targetFingers": ["left-ring", "right-ring"],
+    "exercises": [
+      { "text": "xxxx .... xxxx ....", "type": "drill" },
+      { "text": "sxsx l.l. sxsx l.l.", "type": "drill" },
+      { "text": "x.x. x.x. .x.x .x.x", "type": "drill" },
+      { "text": "box box box six six. six.", "type": "words" },
+      { "text": "a box. a box. six boxes.", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Period ends sentences. Practice the downward reach carefully."
+  },
+  {
+    "id": 30,
+    "number": 30,
+    "title": "Bottom Row: Z and Slash",
+    "description": "Complete the bottom row with Z and the slash key.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["z", "/", "a", ";"],
+    "targetFingers": ["left-pinky", "right-pinky"],
+    "exercises": [
+      { "text": "zzzz //// zzzz ////", "type": "drill" },
+      { "text": "azaz ;/;/ azaz ;/;/", "type": "drill" },
+      { "text": "z/z/ z/z/ /z/z /z/z", "type": "drill" },
+      { "text": "size size size jazz jazz zero zero", "type": "words" },
+      { "text": "a size / a size / zero / zero", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Z is the farthest left bottom key. Stretch the pinky gently."
+  },
+  {
+    "id": 31,
+    "number": 31,
+    "title": "Full Bottom Row",
+    "description": "Practice the entire bottom letter row together.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["z", "x", "c", "v", "b", "n", "m", ",", ".", "/"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "zxcv zxcv bnm, bnm, ./ ./", "type": "drill" },
+      { "text": "zxcvbnm,./ zxcvbnm,./", "type": "drill" },
+      { "text": "can van ban man, can van ban man.", "type": "words" },
+      { "text": "next next next box box mix mix", "type": "words" },
+      { "text": "next, mix the box. next, mix the box.", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Bottom row requires more finger travel. Stay relaxed."
+  },
+  {
+    "id": 32,
+    "number": 32,
+    "title": "All Letters: Short Words",
+    "description": "Type common short words using the full alphabet.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "the and for you are not but can", "type": "words" },
+      { "text": "have this that with from they will", "type": "words" },
+      { "text": "what when where which while while", "type": "words" },
+      { "text": "about after again against almost always", "type": "words" },
+      { "text": "the quick brown fox jumps", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "You now have the full alphabet. Focus on accuracy over speed."
+  },
+  {
+    "id": 33,
+    "number": 33,
+    "title": "Alphabet Combinations",
+    "description": "Drill letter combinations across all rows.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "ab cd ef gh ij kl mn op qr st uv wx yz", "type": "drill" },
+      { "text": "za xb yc vd we uf tg sh ri qj pk ol nm", "type": "drill" },
+      { "text": "pack pack jack jack back back", "type": "words" },
+      { "text": "quick quick brown brown jumps jumps", "type": "words" },
+      { "text": "the lazy dog; the lazy dog;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Crossing between rows builds finger independence."
+  },
+  {
+    "id": 34,
+    "number": 34,
+    "title": "Common Words Set A",
+    "description": "Practice high-frequency English words.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "time time time year year year way way", "type": "words" },
+      { "text": "day day day man man man thing thing", "type": "words" },
+      { "text": "woman woman life life child child", "type": "words" },
+      { "text": "world world school school state state", "type": "words" },
+      { "text": "family family student student group group", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "These words appear constantly in everyday typing."
+  },
+  {
+    "id": 35,
+    "number": 35,
+    "title": "Common Words Set B",
+    "description": "More everyday vocabulary practice.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "work work work place place place case case", "type": "words" },
+      { "text": "point point point company company number number", "type": "words" },
+      { "text": "problem problem fact fact hand hand", "type": "words" },
+      { "text": "part part part place place place week week", "type": "words" },
+      { "text": "system system program program question question", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Build muscle memory for the most common word shapes."
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "title": "Letter Mastery Drill",
+    "description": "Focused drill on the full alphabet in sequence and reverse.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "abcdefghijklmnopqrstuvwxyz", "type": "drill" },
+      { "text": "zyxwvutsrqponmlkjihgfedcba", "type": "drill" },
+      { "text": "abc def ghi jkl mno pqr stu vwx yz", "type": "drill" },
+      { "text": "the quick brown fox jumps over the lazy dog", "type": "sentence" },
+      { "text": "pack my box with five dozen liquor jugs", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Pangrams test every letter. Aim for clean, even strokes."
+  },
+  {
+    "id": 37,
+    "number": 37,
+    "title": "Short Word Fluency",
+    "description": "Rapid short-word sequences to build rhythm.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "is it to be or not to be that is", "type": "words" },
+      { "text": "do we go up or do we go down now", "type": "words" },
+      { "text": "he has his own way and she has hers", "type": "words" },
+      { "text": "if you can then you will and so will i", "type": "words" },
+      { "text": "one two three four five six seven eight", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Keep a steady rhythm. Do not rush and create errors."
+  },
+  {
+    "id": 38,
+    "number": 38,
+    "title": "Medium Words",
+    "description": "Practice slightly longer everyday words.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "people people people because because before before", "type": "words" },
+      { "text": "between between under under through through", "type": "words" },
+      { "text": "during during without without against against", "type": "words" },
+      { "text": "another another something something everything", "type": "words" },
+      { "text": "important important different different possible", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Longer words train sequential finger patterns."
+  },
+  {
+    "id": 39,
+    "number": 39,
+    "title": "Alphabet in Context",
+    "description": "Type natural phrases that use the full alphabet.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "please fix the broken jazz equipment", "type": "sentence" },
+      { "text": "how quickly daft jumping zebras vex", "type": "sentence" },
+      { "text": "the five boxing wizards jump quickly", "type": "sentence" },
+      { "text": "jackdaws love my big sphinx of quartz", "type": "sentence" },
+      { "text": "crazy frederick bought many very exquisite opal jewels", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Pangram sentences are excellent full-alphabet practice."
+  },
+  {
+    "id": 40,
+    "number": 40,
+    "title": "Complete Alphabet Review",
+    "description": "Final review of all alphabetic keys before word-focused training.",
+    "level": "Complete Alphabet",
+    "difficulty": 4,
+    "targetKeys": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz", "type": "drill" },
+      { "text": "the quick brown fox jumps over the lazy dog", "type": "sentence" },
+      { "text": "pack my box with five dozen liquor jugs", "type": "sentence" },
+      { "text": "we can type every letter with skill and care", "type": "sentence" },
+      { "text": "practice makes progress when you type each day", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 2 },
+    "reviewMaterial": "Alphabet complete. Next you will master common words and sentences."
+  }
+]
