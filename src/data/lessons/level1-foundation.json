@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "title": "Home Row: F and J",
+    "description": "Learn the home row anchors. Place your left index finger on F and right index finger on J. These are your home keys.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["f", "j"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "ffff jjjj ffff jjjj", "type": "drill" },
+      { "text": "fjfj fjfj jfjf jfjf", "type": "drill" },
+      { "text": "ffff jjjj fjfj jfjf ffff", "type": "drill" },
+      { "text": "fj fj fj jf jf jf fjfj", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 85, "minRepetitions": 2 },
+    "reviewMaterial": "Keep index fingers on F and J. Feel the small bumps under your fingertips."
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "title": "Home Row: A and ;",
+    "description": "Add the outer home row keys. Left pinky on A, right pinky on semicolon.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["a", ";"],
+    "targetFingers": ["left-pinky", "right-pinky"],
+    "exercises": [
+      { "text": "aaaa ;;;; aaaa ;;;;", "type": "drill" },
+      { "text": "a;a; a;a; ;a;a ;a;a", "type": "drill" },
+      { "text": "aaaa ;;;; a;a; ;a;a aaaa", "type": "drill" },
+      { "text": "aa ;; aa ;; a; ;a a;a;", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 85, "minRepetitions": 2 },
+    "reviewMaterial": "Pinkies rest lightly on A and ;. Do not press hard."
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "title": "Home Row: S and L",
+    "description": "Introduce S and L. Left ring finger on S, right ring finger on L.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["s", "l"],
+    "targetFingers": ["left-ring", "right-ring"],
+    "exercises": [
+      { "text": "ssss llll ssss llll", "type": "drill" },
+      { "text": "slsl slsl lsls lsls", "type": "drill" },
+      { "text": "ssss llll slsl lsls ssss", "type": "drill" },
+      { "text": "ss ll ss ll sl ls slsl", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 85, "minRepetitions": 2 },
+    "reviewMaterial": "Ring fingers stay on S and L. Return to home position after each key."
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "title": "Home Row: D and K",
+    "description": "Add D and K. Left middle finger on D, right middle finger on K.",
+    "level": "Foundation",
+    "difficulty": 1,
+    "targetKeys": ["d", "k"],
+    "targetFingers": ["left-middle", "right-middle"],
+    "exercises": [
+      { "text": "dddd kkkk dddd kkkk", "type": "drill" },
+      { "text": "dkdk dkdk kdkd kdkd", "type": "drill" },
+      { "text": "dddd kkkk dkdk kdkd dddd", "type": "drill" },
+      { "text": "dd kk dd kk dk kd dkdk", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 85, "minRepetitions": 2 },
+    "reviewMaterial": "Middle fingers on D and K form the center of the home row."
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "title": "Full Home Row Left Hand",
+    "description": "Practice the entire left home row: A S D F.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index"],
+    "exercises": [
+      { "text": "asdf asdf asdf asdf", "type": "drill" },
+      { "text": "fdsa fdsa fdsa fdsa", "type": "drill" },
+      { "text": "asdf fdsa asdf fdsa", "type": "drill" },
+      { "text": "aa ss dd ff as df sa fd", "type": "drill" },
+      { "text": "asdf asdf fdsa asdf asdf", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 88, "minRepetitions": 2 },
+    "reviewMaterial": "Keep all four left fingers resting on A S D F."
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "title": "Full Home Row Right Hand",
+    "description": "Practice the entire right home row: J K L ;",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["j", "k", "l", ";"],
+    "targetFingers": ["right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "jkl; jkl; jkl; jkl;", "type": "drill" },
+      { "text": ";lkj ;lkj ;lkj ;lkj", "type": "drill" },
+      { "text": "jkl; ;lkj jkl; ;lkj", "type": "drill" },
+      { "text": "jj kk ll ;; jk l; kj ;l", "type": "drill" },
+      { "text": "jkl; jkl; ;lkj jkl; jkl;", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 88, "minRepetitions": 2 },
+    "reviewMaterial": "Right hand rests on J K L ;. Index finger feels the J bump."
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "title": "Home Row Combined",
+    "description": "Combine both hands on the full home row.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "asdf jkl; asdf jkl;", "type": "drill" },
+      { "text": "fdsa ;lkj fdsa ;lkj", "type": "drill" },
+      { "text": "asdf jkl; fdsa ;lkj", "type": "drill" },
+      { "text": "aj sk dl f; ja ks ld ;f", "type": "drill" },
+      { "text": "asdf jkl; asdf jkl; asdf jkl;", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Both hands stay on home row. Look at the screen, not the keyboard."
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "title": "Home Row Patterns",
+    "description": "Build rhythm with alternating and same-hand patterns.",
+    "level": "Foundation",
+    "difficulty": 2,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "fj fj fj dk dk dk sl sl sl a; a; a;", "type": "drill" },
+      { "text": "af af af sj sj sj dk dk dk l; l; l;", "type": "drill" },
+      { "text": "fad fad fad jak jak jak; sal sal sal", "type": "drill" },
+      { "text": "asdf jkl; fjdk sla; asdf jkl;", "type": "drill" },
+      { "text": "a s d f j k l ; a s d f j k l ;", "type": "drill" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Focus on even timing. Accuracy first, speed later."
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "title": "Home Row Words",
+    "description": "Type short words using only home row keys.",
+    "level": "Foundation",
+    "difficulty": 3,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "as as as dad dad dad sad sad sad", "type": "words" },
+      { "text": "all all all fall fall fall flask flask", "type": "words" },
+      { "text": "ask ask ask salad salad salad", "type": "words" },
+      { "text": "a lad; a lad; all lads; all lads;", "type": "words" },
+      { "text": "dad asks; dad asks; a sad lad falls;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Space bar is pressed with either thumb. Keep other fingers on home keys."
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "title": "Foundation Review",
+    "description": "Review and strengthen all home row skills before moving on.",
+    "level": "Foundation",
+    "difficulty": 3,
+    "targetKeys": ["a", "s", "d", "f", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "asdf jkl; asdf jkl; fdsa ;lkj", "type": "drill" },
+      { "text": "fj dk sl a; fj dk sl a; asdf jkl;", "type": "drill" },
+      { "text": "a sad lad; a sad lad; dad asks all;", "type": "words" },
+      { "text": "all falls; ask dad; a flask; salad;", "type": "words" },
+      { "text": "asdf jkl; a sad lad falls; dad asks;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "You have completed the foundation. Always return fingers to home row after every key."
+  }
+]
