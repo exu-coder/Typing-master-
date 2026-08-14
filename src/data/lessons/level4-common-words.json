@@ -1,0 +1,287 @@
+[
+  {
+    "id": 41,
+    "number": 41,
+    "title": "Top 20 Words",
+    "description": "Master the most frequent English words.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the the the of of of and and and a a a to to to", "type": "words" },
+      { "text": "in in in is is is you you you that that that it it it", "type": "words" },
+      { "text": "he he he was was was for for for on on on are are are", "type": "words" },
+      { "text": "as as as with with with his his his they they they", "type": "words" },
+      { "text": "the of and a to in is you that it he was for on are", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "These words make up a large percentage of English text."
+  },
+  {
+    "id": 42,
+    "number": 42,
+    "title": "Question Words",
+    "description": "Practice who, what, when, where, why, how.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "who who who what what what when when when", "type": "words" },
+      { "text": "where where where why why why how how how", "type": "words" },
+      { "text": "who is it what is it when is it", "type": "words" },
+      { "text": "where are you why are you how are you", "type": "words" },
+      { "text": "who what when where why how who what when", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Question words appear constantly in conversation and writing."
+  },
+  {
+    "id": 43,
+    "number": 43,
+    "title": "Action Verbs",
+    "description": "Common action verbs for everyday typing.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "make make make take take take come come come", "type": "words" },
+      { "text": "know know know think think think look look look", "type": "words" },
+      { "text": "want want want give give give use use use", "type": "words" },
+      { "text": "find find find tell tell tell ask ask ask", "type": "words" },
+      { "text": "work work work seem seem seem feel feel feel", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Verbs drive sentences. Type them smoothly."
+  },
+  {
+    "id": 44,
+    "number": 44,
+    "title": "Time Words",
+    "description": "Words related to time and sequence.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "now now now then then then today today today", "type": "words" },
+      { "text": "year year year day day day week week week", "type": "words" },
+      { "text": "month month month hour hour hour minute minute", "type": "words" },
+      { "text": "before before after after during during", "type": "words" },
+      { "text": "always always never never often often sometimes", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Time expressions help structure longer text."
+  },
+  {
+    "id": 45,
+    "number": 45,
+    "title": "Place and Direction",
+    "description": "Words for locations and movement.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "here here here there there there where where", "type": "words" },
+      { "text": "home home home school school school work work", "type": "words" },
+      { "text": "left left left right right right up up down down", "type": "words" },
+      { "text": "inside inside outside outside around around", "type": "words" },
+      { "text": "near near near far far far above above below below", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Spatial words are short and frequent."
+  },
+  {
+    "id": 46,
+    "number": 46,
+    "title": "People and Pronouns",
+    "description": "Pronouns and words about people.",
+    "level": "Common Words",
+    "difficulty": 3,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "i i i you you you he he he she she she", "type": "words" },
+      { "text": "we we we they they they me me me him him him", "type": "words" },
+      { "text": "her her her us us us them them them", "type": "words" },
+      { "text": "person person people people man man woman woman", "type": "words" },
+      { "text": "child child children children friend friend family", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Pronouns are among the highest-frequency words."
+  },
+  {
+    "id": 47,
+    "number": 47,
+    "title": "Describing Words",
+    "description": "Common adjectives and adverbs.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "good good good bad bad bad big big big small small", "type": "words" },
+      { "text": "new new new old old old young young young", "type": "words" },
+      { "text": "long long long short short short high high low low", "type": "words" },
+      { "text": "early early late late fast fast slow slow", "type": "words" },
+      { "text": "very very very much much more more most most", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Adjectives add detail. Keep rhythm steady."
+  },
+  {
+    "id": 48,
+    "number": 48,
+    "title": "Connecting Words",
+    "description": "Conjunctions and transition words.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "and and and but but but or or or so so so", "type": "words" },
+      { "text": "because because because if if if when when when", "type": "words" },
+      { "text": "although although while while since since", "type": "words" },
+      { "text": "however however therefore therefore moreover", "type": "words" },
+      { "text": "also also also then then then next next finally", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Connectors link ideas. Practice smooth transitions."
+  },
+  {
+    "id": 49,
+    "number": 49,
+    "title": "Business Basics",
+    "description": "Words useful in office and professional typing.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "meeting meeting meeting report report report", "type": "words" },
+      { "text": "email email email project project project", "type": "words" },
+      { "text": "client client client office office office", "type": "words" },
+      { "text": "schedule schedule schedule deadline deadline", "type": "words" },
+      { "text": "team team team manager manager manager", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Professional vocabulary builds workplace typing confidence."
+  },
+  {
+    "id": 50,
+    "number": 50,
+    "title": "Mixed High-Frequency",
+    "description": "A mixed set of the most useful common words.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "about about about would would would could could", "type": "words" },
+      { "text": "should should should their their their there there", "type": "words" },
+      { "text": "which which which these these these those those", "type": "words" },
+      { "text": "other other other into into into over over", "type": "words" },
+      { "text": "only only only just just just also also also", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "These words appear in almost every paragraph."
+  },
+  {
+    "id": 51,
+    "number": 51,
+    "title": "Word Pairs",
+    "description": "Common two-word combinations.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "of the of the of the in the in the in the", "type": "words" },
+      { "text": "to the to the to the on the on the on the", "type": "words" },
+      { "text": "for the for the for the at the at the", "type": "words" },
+      { "text": "and the and the and the with the with the", "type": "words" },
+      { "text": "from the from the from the by the by the", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Preposition + the is an extremely common pattern."
+  },
+  {
+    "id": 52,
+    "number": 52,
+    "title": "Three-Word Phrases",
+    "description": "Short phrases that appear in natural writing.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "one of the one of the one of the", "type": "words" },
+      { "text": "as well as as well as as well as", "type": "words" },
+      { "text": "in order to in order to in order to", "type": "words" },
+      { "text": "a lot of a lot of a lot of", "type": "words" },
+      { "text": "at the same at the same at the same", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Phrase-level practice improves real-world fluency."
+  },
+  {
+    "id": 53,
+    "number": 53,
+    "title": "Longer Word Practice",
+    "description": "Words with more letters and mixed patterns.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "important important important different different", "type": "words" },
+      { "text": "available available available necessary necessary", "type": "words" },
+      { "text": "development development development information", "type": "words" },
+      { "text": "experience experience experience education education", "type": "words" },
+      { "text": "government government government environment", "type": "words" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "Longer words train sustained finger sequences."
+  },
+  {
+    "id": 54,
+    "number": 54,
+    "title": "Word Flow Drill",
+    "description": "Continuous word streams for rhythm and accuracy.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the time has come for people to work together", "type": "words" },
+      { "text": "she will take the next train from the station", "type": "words" },
+      { "text": "they want to know more about the new project", "type": "words" },
+      { "text": "we should look at every option before we decide", "type": "words" },
+      { "text": "you can always ask for help when you need it", "type": "words" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 2 },
+    "reviewMaterial": "Flow practice bridges words and full sentences."
+  },
+  {
+    "id": 55,
+    "number": 55,
+    "title": "Common Words Review",
+    "description": "Review of high-frequency words before sentence training.",
+    "level": "Common Words",
+    "difficulty": 4,
+    "targetKeys": [],
+    "targetFingers": [],
+    "exercises": [
+      { "text": "the and of to a in is that it for you he was on are", "type": "words" },
+      { "text": "as with his they at be this from or one had by word", "type": "words" },
+      { "text": "but not what all were when we your can said there", "type": "words" },
+      { "text": "use each which she do how their if will up other about", "type": "words" },
+      { "text": "out many then them these so some her would make like", "type": "words" }
+    ],
+    "requirements": { "accuracy": 94, "minRepetitions": 2 },
+    "reviewMaterial": "Strong word mastery makes sentence typing much easier."
+  }
+]
