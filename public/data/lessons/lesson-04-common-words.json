@@ -1,0 +1,476 @@
+{
+  "part": 4,
+  "title": "Level 4 — Common Words",
+  "level": "Common Words",
+  "lessonCount": 15,
+  "lessons": [
+    {
+      "id": 41,
+      "number": 41,
+      "title": "Common Words: the, and, you",
+      "description": "Master the most frequent English words.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the and you the and you",
+          "type": "words"
+        },
+        {
+          "text": "the and you that this with",
+          "type": "words"
+        },
+        {
+          "text": "you and the others",
+          "type": "sentence"
+        },
+        {
+          "text": "the one and you",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "title": "Common Words: that, this, with",
+      "description": "Practice high-frequency connectors.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "that this with from have they",
+          "type": "words"
+        },
+        {
+          "text": "that this with that this with",
+          "type": "words"
+        },
+        {
+          "text": "this is the one with that",
+          "type": "sentence"
+        },
+        {
+          "text": "they have that with them",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "title": "Common Words: from, have, they",
+      "description": "Continue building core vocabulary.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "from have they will your what",
+          "type": "words"
+        },
+        {
+          "text": "they have from will your",
+          "type": "words"
+        },
+        {
+          "text": "they will have your what",
+          "type": "sentence"
+        },
+        {
+          "text": "what will they have from you",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "title": "Common Words: will, your, what",
+      "description": "More essential everyday words.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "will your what when where which",
+          "type": "words"
+        },
+        {
+          "text": "what will your when where",
+          "type": "words"
+        },
+        {
+          "text": "what will you do when",
+          "type": "sentence"
+        },
+        {
+          "text": "where will your which be",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "title": "Top 20 Words",
+      "description": "Drill the twenty most common English words.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the be to of and a in that have i",
+          "type": "words"
+        },
+        {
+          "text": "it for not on with he as you do at",
+          "type": "words"
+        },
+        {
+          "text": "the be to of and a in that have",
+          "type": "words"
+        },
+        {
+          "text": "it is for you and not for me",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "title": "Everyday Verbs",
+      "description": "Practice common action words.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "make take come go see know get give find think",
+          "type": "words"
+        },
+        {
+          "text": "make take come go see",
+          "type": "words"
+        },
+        {
+          "text": "they make and take and come",
+          "type": "sentence"
+        },
+        {
+          "text": "go see and know the way",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "title": "Time Words",
+      "description": "Words related to time and sequence.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "time day year way when now then before after",
+          "type": "words"
+        },
+        {
+          "text": "the day and the year",
+          "type": "sentence"
+        },
+        {
+          "text": "now and then before after",
+          "type": "sentence"
+        },
+        {
+          "text": "when is the time and the day",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "title": "People Words",
+      "description": "Words about people and relationships.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "people person man woman child friend family",
+          "type": "words"
+        },
+        {
+          "text": "a person and a friend",
+          "type": "sentence"
+        },
+        {
+          "text": "the family and the child",
+          "type": "sentence"
+        },
+        {
+          "text": "people need friends and family",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "title": "Place Words",
+      "description": "Common location and place terms.",
+      "level": "Common Words",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "place home house room city town world country",
+          "type": "words"
+        },
+        {
+          "text": "the home and the house",
+          "type": "sentence"
+        },
+        {
+          "text": "a room in the city",
+          "type": "sentence"
+        },
+        {
+          "text": "the world and the country",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "title": "Mixed Common Words",
+      "description": "Fluency drill with mixed high-frequency words.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the people of the world have the power",
+          "type": "sentence"
+        },
+        {
+          "text": "you will find the way when you look",
+          "type": "sentence"
+        },
+        {
+          "text": "they have been here from the start",
+          "type": "sentence"
+        },
+        {
+          "text": "what will you do with your time",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 28
+      }
+    },
+    {
+      "id": 51,
+      "number": 51,
+      "title": "Short Phrases",
+      "description": "Type natural short phrases smoothly.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "on the way in the end at the time",
+          "type": "sentence"
+        },
+        {
+          "text": "for the most part in the long run",
+          "type": "sentence"
+        },
+        {
+          "text": "as a matter of fact by the way",
+          "type": "sentence"
+        },
+        {
+          "text": "at the same time in other words",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 52,
+      "number": 52,
+      "title": "Question Words",
+      "description": "Who, what, when, where, why, how.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "who what when where why how",
+          "type": "words"
+        },
+        {
+          "text": "who is it and what do they want",
+          "type": "sentence"
+        },
+        {
+          "text": "when and where will they go",
+          "type": "sentence"
+        },
+        {
+          "text": "why and how did it happen",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 53,
+      "number": 53,
+      "title": "Connecting Words",
+      "description": "Conjunctions and transition words.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "and but or so because if then also",
+          "type": "words"
+        },
+        {
+          "text": "and then but also because if",
+          "type": "words"
+        },
+        {
+          "text": "if you go then i will also go",
+          "type": "sentence"
+        },
+        {
+          "text": "because of that so we will wait",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95
+      }
+    },
+    {
+      "id": 54,
+      "number": 54,
+      "title": "Word Flow Practice",
+      "description": "Maintain rhythm across word sequences.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the more you practice the better you become",
+          "type": "sentence"
+        },
+        {
+          "text": "every day is a chance to improve your skill",
+          "type": "sentence"
+        },
+        {
+          "text": "focus on accuracy first and speed will follow",
+          "type": "sentence"
+        },
+        {
+          "text": "consistent practice builds lasting muscle memory",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 95,
+        "targetWpm": 30
+      }
+    },
+    {
+      "id": 55,
+      "number": 55,
+      "title": "Common Words Mastery",
+      "description": "Final check of high-frequency vocabulary.",
+      "level": "Common Words",
+      "difficulty": 4,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the best way to learn is to practice every day",
+          "type": "sentence"
+        },
+        {
+          "text": "you will see progress when you stay consistent",
+          "type": "sentence"
+        },
+        {
+          "text": "accuracy matters more than raw speed at first",
+          "type": "sentence"
+        },
+        {
+          "text": "build good habits and the results will come",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 96,
+        "targetWpm": 30
+      }
+    }
+  ]
+}
