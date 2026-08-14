@@ -1,0 +1,96 @@
+{
+  "totalParts": 10,
+  "totalLessons": 125,
+  "parts": [
+    {
+      "part": 1,
+      "file": "lesson-01-foundation.json",
+      "title": "Level 1 — Foundation",
+      "level": "Foundation",
+      "lessonCount": 10,
+      "firstId": 1,
+      "lastId": 10
+    },
+    {
+      "part": 2,
+      "file": "lesson-02-basic-letters.json",
+      "title": "Level 2 — Basic Letters",
+      "level": "Basic Letters",
+      "lessonCount": 15,
+      "firstId": 11,
+      "lastId": 25
+    },
+    {
+      "part": 3,
+      "file": "lesson-03-complete-alphabet.json",
+      "title": "Level 3 — Complete Alphabet",
+      "level": "Complete Alphabet",
+      "lessonCount": 15,
+      "firstId": 26,
+      "lastId": 40
+    },
+    {
+      "part": 4,
+      "file": "lesson-04-common-words.json",
+      "title": "Level 4 — Common Words",
+      "level": "Common Words",
+      "lessonCount": 15,
+      "firstId": 41,
+      "lastId": 55
+    },
+    {
+      "part": 5,
+      "file": "lesson-05-sentences.json",
+      "title": "Level 5 — Sentences",
+      "level": "Sentences",
+      "lessonCount": 10,
+      "firstId": 56,
+      "lastId": 65
+    },
+    {
+      "part": 6,
+      "file": "lesson-06-shift-training.json",
+      "title": "Level 6 — Shift Training",
+      "level": "Shift Training",
+      "lessonCount": 10,
+      "firstId": 66,
+      "lastId": 75
+    },
+    {
+      "part": 7,
+      "file": "lesson-07-number-row.json",
+      "title": "Level 7 — Number Row",
+      "level": "Number Row",
+      "lessonCount": 10,
+      "firstId": 76,
+      "lastId": 85
+    },
+    {
+      "part": 8,
+      "file": "lesson-08-symbols.json",
+      "title": "Level 8 — Symbols",
+      "level": "Symbols",
+      "lessonCount": 15,
+      "firstId": 86,
+      "lastId": 100
+    },
+    {
+      "part": 9,
+      "file": "lesson-09-advanced-combinations.json",
+      "title": "Level 9 — Advanced Combinations",
+      "level": "Advanced Combinations",
+      "lessonCount": 10,
+      "firstId": 101,
+      "lastId": 110
+    },
+    {
+      "part": 10,
+      "file": "lesson-10-real-world.json",
+      "title": "Level 10 — Real-World Typing",
+      "level": "Real-World Typing",
+      "lessonCount": 15,
+      "firstId": 111,
+      "lastId": 125
+    }
+  ]
+}
