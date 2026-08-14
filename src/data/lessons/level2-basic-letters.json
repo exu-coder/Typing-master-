@@ -1,0 +1,287 @@
+[
+  {
+    "id": 11,
+    "number": 11,
+    "title": "Reach Up: G and H",
+    "description": "Introduce G and H from the home row. Left index reaches to G, right index to H.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["g", "h", "f", "j"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "gggg hhhh gggg hhhh", "type": "drill" },
+      { "text": "fgfg jhjh fgfg jhjh", "type": "drill" },
+      { "text": "ghgh ghgh hghg hghg", "type": "drill" },
+      { "text": "fg hj fg hj ggg hhh fghj", "type": "drill" },
+      { "text": "had had had glad glad flag flag", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Index fingers stretch inward to G and H, then return to F and J."
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "title": "Upper Row: R and U",
+    "description": "Reach up to R and U. Left index on R, right index on U.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["r", "u", "f", "j"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "rrrr uuuu rrrr uuuu", "type": "drill" },
+      { "text": "frfr juju frfr juju", "type": "drill" },
+      { "text": "ruru ruru urur urur", "type": "drill" },
+      { "text": "fr ju fr ju rrr uuu frju", "type": "drill" },
+      { "text": "fur fur fur jar jar rush rush", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Keep wrists steady. Only the index fingers move up to R and U."
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "title": "Upper Row: E and I",
+    "description": "Add E and I. Left middle finger reaches to E, right middle to I.",
+    "level": "Basic Letters",
+    "difficulty": 2,
+    "targetKeys": ["e", "i", "d", "k"],
+    "targetFingers": ["left-middle", "right-middle"],
+    "exercises": [
+      { "text": "eeee iiii eeee iiii", "type": "drill" },
+      { "text": "dede kiki dede kiki", "type": "drill" },
+      { "text": "eiei eiei ieie ieie", "type": "drill" },
+      { "text": "de ki de ki eee iii deki", "type": "drill" },
+      { "text": "see see see like like field field", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Middle fingers go up to E and I and return to D and K."
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "title": "Upper Row: W and O",
+    "description": "Introduce W and O. Left ring finger on W, right ring on O.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["w", "o", "s", "l"],
+    "targetFingers": ["left-ring", "right-ring"],
+    "exercises": [
+      { "text": "wwww oooo wwww oooo", "type": "drill" },
+      { "text": "swsw lolo swsw lolo", "type": "drill" },
+      { "text": "wowo wowo owow owow", "type": "drill" },
+      { "text": "sw lo sw lo www ooo swlo", "type": "drill" },
+      { "text": "wow wow wow low low slow slow", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Ring fingers reach up. Keep other fingers resting on home keys."
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "title": "Upper Row: Q and P",
+    "description": "Add Q and P. Left pinky on Q, right pinky on P.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "p", "a", ";"],
+    "targetFingers": ["left-pinky", "right-pinky"],
+    "exercises": [
+      { "text": "qqqq pppp qqqq pppp", "type": "drill" },
+      { "text": "aqaq ;p;p aqaq ;p;p", "type": "drill" },
+      { "text": "qpqp qpqp pqpq pqpq", "type": "drill" },
+      { "text": "aq ;p aq ;p qqq ppp aq;p", "type": "drill" },
+      { "text": "quip quip quip app app quip", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Pinkies stretch up to Q and P. Return immediately to A and ;."
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "title": "Upper Row: T and Y",
+    "description": "Complete the top letter row with T and Y.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["t", "y", "f", "j", "g", "h"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "tttt yyyy tttt yyyy", "type": "drill" },
+      { "text": "ftft jyjy ftft jyjy", "type": "drill" },
+      { "text": "tyty tyty ytyt ytyt", "type": "drill" },
+      { "text": "ft jy ft jy ttt yyy ftjy", "type": "drill" },
+      { "text": "they they they yet yet try try", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Index fingers handle T and Y as well as G and H."
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "title": "Left Hand Upper Keys",
+    "description": "Practice all left-hand upper keys: Q W E R T.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "w", "e", "r", "t", "a", "s", "d", "f", "g"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index"],
+    "exercises": [
+      { "text": "qwer qwer qwer asdf asdf", "type": "drill" },
+      { "text": "qwer ttre qwer ttre", "type": "drill" },
+      { "text": "qa ws ed rf tg qa ws ed rf tg", "type": "drill" },
+      { "text": "water water great great trade trade", "type": "words" },
+      { "text": "we are; we are; a great trade;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Left hand covers QWERTY left side. Always return to home row."
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "title": "Right Hand Upper Keys",
+    "description": "Practice all right-hand upper keys: Y U I O P.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["y", "u", "i", "o", "p", "h", "j", "k", "l", ";"],
+    "targetFingers": ["right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "yuiop yuiop yuiop hjkl; hjkl;", "type": "drill" },
+      { "text": "yuiop poiuy yuiop poiuy", "type": "drill" },
+      { "text": "yh uj ik ol p; yh uj ik ol p;", "type": "drill" },
+      { "text": "you you you oil oil pull pull", "type": "words" },
+      { "text": "you look; you look; pull up;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 90, "minRepetitions": 2 },
+    "reviewMaterial": "Right hand covers YUIOP. Index stays near J and H."
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "title": "Combining Upper and Home",
+    "description": "Mix upper-row letters with home-row keys.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "g", "h", "j", "k", "l", ";"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "the the the you you you are are are", "type": "words" },
+      { "text": "this this that that with with", "type": "words" },
+      { "text": "we are; they are; you are;", "type": "words" },
+      { "text": "the key; the key; a good idea;", "type": "words" },
+      { "text": "she said; he said; they said yes;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Practice common words. Keep eyes on the text, not the keys."
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "title": "Common Letter Pairs",
+    "description": "Drill frequent letter pairs from the keys learned so far.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["t", "h", "e", "a", "r", "i", "s", "o", "n", "d"],
+    "targetFingers": ["left-index", "right-index", "left-middle", "left-pinky", "left-ring", "right-middle", "right-ring"],
+    "exercises": [
+      { "text": "th th th he he he er er er an an an", "type": "drill" },
+      { "text": "re re re on on on at at at en en en", "type": "drill" },
+      { "text": "the the the and and and for for for", "type": "words" },
+      { "text": "there there here here where where", "type": "words" },
+      { "text": "the other; the other; rather than;", "type": "words" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Bigrams like TH, HE, ER form the foundation of English typing speed."
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "title": "Words with G H R U",
+    "description": "Build vocabulary using recently introduced letters.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["g", "h", "r", "u", "a", "s", "d", "f", "j", "k", "l"],
+    "targetFingers": ["left-index", "right-index"],
+    "exercises": [
+      { "text": "hard hard hard girl girl girl rush rush", "type": "words" },
+      { "text": "half half half full full full glass glass", "type": "words" },
+      { "text": "guard guard harsh harsh laugh laugh", "type": "words" },
+      { "text": "a hard task; a full glass; rush ahead;", "type": "words" },
+      { "text": "she has a hard task; he has a full day;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Use natural word patterns. Pause briefly between words."
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "title": "Words with E I W O",
+    "description": "Practice words featuring E, I, W, and O.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["e", "i", "w", "o", "a", "s", "d", "f", "j", "k", "l"],
+    "targetFingers": ["left-middle", "right-middle", "left-ring", "right-ring"],
+    "exercises": [
+      { "text": "wide wide wide side side side like like", "type": "words" },
+      { "text": "word word word will will will look look", "type": "words" },
+      { "text": "field field yellow yellow low low", "type": "words" },
+      { "text": "we will; we will; look wide; side door;", "type": "words" },
+      { "text": "we will look at the wide field;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Middle and ring fingers should move independently."
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "title": "Words with Q P T Y",
+    "description": "Practice words that use Q, P, T, and Y.",
+    "level": "Basic Letters",
+    "difficulty": 3,
+    "targetKeys": ["q", "p", "t", "y", "a", "s", "d", "f", "j", "k", "l"],
+    "targetFingers": ["left-pinky", "right-pinky", "left-index", "right-index"],
+    "exercises": [
+      { "text": "type type type quit quit quit pay pay", "type": "words" },
+      { "text": "pretty pretty party party quality quality", "type": "words" },
+      { "text": "apply apply happy happy typist typist", "type": "words" },
+      { "text": "type fast; quit late; pay early;", "type": "words" },
+      { "text": "a pretty party; high quality type;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Q and P are edge keys. Stretch pinkies carefully."
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "title": "Mixed Upper Row Drill",
+    "description": "Full upper-row fluency with home-row support.",
+    "level": "Basic Letters",
+    "difficulty": 4,
+    "targetKeys": ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "qwerty uiop qwerty uiop", "type": "drill" },
+      { "text": "the power; the power; type power;", "type": "words" },
+      { "text": "we type; you type; they type words;", "type": "words" },
+      { "text": "your power; our power; the quiet type;", "type": "words" },
+      { "text": "we type words with power and quiet care;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 92, "minRepetitions": 2 },
+    "reviewMaterial": "Smooth transitions between upper and home rows build real speed."
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "title": "Basic Letters Review",
+    "description": "Review all letters introduced so far before adding bottom-row keys.",
+    "level": "Basic Letters",
+    "difficulty": 4,
+    "targetKeys": ["a", "s", "d", "f", "g", "h", "j", "k", "l", ";", "q", "w", "e", "r", "t", "y", "u", "i", "o", "p"],
+    "targetFingers": ["left-pinky", "left-ring", "left-middle", "left-index", "right-index", "right-middle", "right-ring", "right-pinky"],
+    "exercises": [
+      { "text": "the quick; the quick; a quiet power;", "type": "words" },
+      { "text": "we are here; you are there; they are ready;", "type": "words" },
+      { "text": "type these words; type those words;", "type": "words" },
+      { "text": "she said the power is quiet and steady;", "type": "sentence" },
+      { "text": "we type with skill; you type with care;", "type": "sentence" }
+    ],
+    "requirements": { "accuracy": 93, "minRepetitions": 2 },
+    "reviewMaterial": "You now know the top two letter rows. Keep fingers curved and relaxed."
+  }
+]
