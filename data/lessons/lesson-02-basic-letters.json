@@ -1,0 +1,548 @@
+{
+  "part": 2,
+  "title": "Level 2 — Basic Letters",
+  "level": "Basic Letters",
+  "lessonCount": 15,
+  "lessons": [
+    {
+      "id": 11,
+      "number": 11,
+      "title": "Introducing G and H",
+      "description": "Reach up slightly for G and H with your index fingers.",
+      "level": "Basic Letters",
+      "difficulty": 2,
+      "targetKeys": [
+        "g",
+        "h",
+        "a",
+        "s",
+        "d",
+        "f",
+        "j",
+        "k",
+        "l",
+        ";"
+      ],
+      "targetFingers": [
+        "left-index",
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "gggg hhhh gggg hhhh",
+          "type": "drill"
+        },
+        {
+          "text": "ghgh ghgh hghg hghg",
+          "type": "drill"
+        },
+        {
+          "text": "fg hj fg hj gf jh gf jh",
+          "type": "drill"
+        },
+        {
+          "text": "gash half glass flash",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "title": "G and H Words",
+      "description": "Practice words with G and H.",
+      "level": "Basic Letters",
+      "difficulty": 2,
+      "targetKeys": [
+        "g",
+        "h"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "had has gas ash glad",
+          "type": "words"
+        },
+        {
+          "text": "half glass flash gash",
+          "type": "words"
+        },
+        {
+          "text": "a glad lad has a glass",
+          "type": "sentence"
+        },
+        {
+          "text": "she had a half glass",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "title": "Introducing R and U",
+      "description": "Reach up for R (left index) and U (right index).",
+      "level": "Basic Letters",
+      "difficulty": 2,
+      "targetKeys": [
+        "r",
+        "u"
+      ],
+      "targetFingers": [
+        "left-index",
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "rrrr uuuu rrrr uuuu",
+          "type": "drill"
+        },
+        {
+          "text": "ruru ruru urur urur",
+          "type": "drill"
+        },
+        {
+          "text": "fr ju fr ju rf uj rf uj",
+          "type": "drill"
+        },
+        {
+          "text": "fur jar hard rush",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "title": "R and U Practice",
+      "description": "Combine R and U with home row.",
+      "level": "Basic Letters",
+      "difficulty": 2,
+      "targetKeys": [
+        "r",
+        "u"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "hard rush fur jar dark",
+          "type": "words"
+        },
+        {
+          "text": "a hard rush; a dark jar",
+          "type": "sentence"
+        },
+        {
+          "text": "she had a hard fall",
+          "type": "sentence"
+        },
+        {
+          "text": "rush hard; dark fur",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "title": "Introducing E and I",
+      "description": "Middle fingers reach for E and I.",
+      "level": "Basic Letters",
+      "difficulty": 2,
+      "targetKeys": [
+        "e",
+        "i"
+      ],
+      "targetFingers": [
+        "left-middle",
+        "right-middle"
+      ],
+      "exercises": [
+        {
+          "text": "eeee iiii eeee iiii",
+          "type": "drill"
+        },
+        {
+          "text": "eiei eiei ieie ieie",
+          "type": "drill"
+        },
+        {
+          "text": "de ki de ki ed ik ed ik",
+          "type": "drill"
+        },
+        {
+          "text": "see like feel field",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "title": "E and I Words",
+      "description": "Practice common words with E and I.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "e",
+        "i"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "see feel like field side",
+          "type": "words"
+        },
+        {
+          "text": "she likes the field",
+          "type": "sentence"
+        },
+        {
+          "text": "he feels like a kid",
+          "type": "sentence"
+        },
+        {
+          "text": "see the side field",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "title": "Introducing W and O",
+      "description": "Ring fingers reach for W and O.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "w",
+        "o"
+      ],
+      "targetFingers": [
+        "left-ring",
+        "right-ring"
+      ],
+      "exercises": [
+        {
+          "text": "wwww oooo wwww oooo",
+          "type": "drill"
+        },
+        {
+          "text": "wowo wowo owow owow",
+          "type": "drill"
+        },
+        {
+          "text": "sw lo sw lo ws ol ws ol",
+          "type": "drill"
+        },
+        {
+          "text": "word low slow flow",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "title": "W and O Practice",
+      "description": "Words and short phrases with W and O.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "w",
+        "o"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "word low slow flow world",
+          "type": "words"
+        },
+        {
+          "text": "a slow word; a low flow",
+          "type": "sentence"
+        },
+        {
+          "text": "we saw a low world",
+          "type": "sentence"
+        },
+        {
+          "text": "show the slow flow",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "title": "Introducing Q and P",
+      "description": "Pinky fingers reach for Q and P.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "q",
+        "p"
+      ],
+      "targetFingers": [
+        "left-pinky",
+        "right-pinky"
+      ],
+      "exercises": [
+        {
+          "text": "qqqq pppp qqqq pppp",
+          "type": "drill"
+        },
+        {
+          "text": "qpqp qpqp pqpq pqpq",
+          "type": "drill"
+        },
+        {
+          "text": "aq ;p aq ;p qa p; qa p;",
+          "type": "drill"
+        },
+        {
+          "text": "quit please equal apple",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 90
+      }
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "title": "Q and P Practice",
+      "description": "Practice the less common Q and P keys.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "q",
+        "p"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "quit please equal apple quiet",
+          "type": "words"
+        },
+        {
+          "text": "please quit the equal path",
+          "type": "sentence"
+        },
+        {
+          "text": "a quiet apple; please quit",
+          "type": "sentence"
+        },
+        {
+          "text": "she quit; please be quiet",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "title": "Introducing T and Y",
+      "description": "Index fingers reach for T and Y.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "t",
+        "y"
+      ],
+      "targetFingers": [
+        "left-index",
+        "right-index"
+      ],
+      "exercises": [
+        {
+          "text": "tttt yyyy tttt yyyy",
+          "type": "drill"
+        },
+        {
+          "text": "tyty tyty ytyt ytyt",
+          "type": "drill"
+        },
+        {
+          "text": "ft jy ft jy tf yj tf yj",
+          "type": "drill"
+        },
+        {
+          "text": "they that type style",
+          "type": "words"
+        }
+      ],
+      "requirements": {
+        "accuracy": 92
+      }
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "title": "T and Y Words",
+      "description": "Common words featuring T and Y.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "t",
+        "y"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "they that type style try",
+          "type": "words"
+        },
+        {
+          "text": "they try that style",
+          "type": "sentence"
+        },
+        {
+          "text": "the type they try",
+          "type": "sentence"
+        },
+        {
+          "text": "try that type; they say",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93
+      }
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "title": "Upper Row Review",
+      "description": "Review all upper-row letters learned so far.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [
+        "q",
+        "w",
+        "e",
+        "r",
+        "t",
+        "y",
+        "u",
+        "i",
+        "o",
+        "p"
+      ],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "qwerty uiop qwerty uiop",
+          "type": "drill"
+        },
+        {
+          "text": "type write power quiet",
+          "type": "words"
+        },
+        {
+          "text": "they write quiet power",
+          "type": "sentence"
+        },
+        {
+          "text": "please type the quiet word",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 93,
+        "targetWpm": 18
+      }
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "title": "Mixed Letter Practice",
+      "description": "Combine home row and upper row fluently.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the quick word is power",
+          "type": "sentence"
+        },
+        {
+          "text": "she writes a quiet letter",
+          "type": "sentence"
+        },
+        {
+          "text": "they feel the hard power",
+          "type": "sentence"
+        },
+        {
+          "text": "a quiet field; a slow path",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94
+      }
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "title": "Basic Letters Mastery",
+      "description": "Confirm mastery of home and upper rows.",
+      "level": "Basic Letters",
+      "difficulty": 3,
+      "targetKeys": [],
+      "targetFingers": [],
+      "exercises": [
+        {
+          "text": "the fast lad writes a quiet letter",
+          "type": "sentence"
+        },
+        {
+          "text": "please type the power word",
+          "type": "sentence"
+        },
+        {
+          "text": "they all feel the hard style",
+          "type": "sentence"
+        },
+        {
+          "text": "a quiet world; a slow field path",
+          "type": "sentence"
+        }
+      ],
+      "requirements": {
+        "accuracy": 94,
+        "targetWpm": 20
+      }
+    }
+  ]
+}
