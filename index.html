@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Typing Master - Build Speed. Build Accuracy. Build Muscle Memory. Professional touch typing tutor." />
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="manifest" href="./manifest.json" />
+  <title>Typing Master</title>
+  <style>
+    /* Critical splash styles */
+    #splash {
+      position: fixed;
+      inset: 0;
+      background: #0f172a;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: opacity 0.4s ease, visibility 0.4s;
+    }
+    #splash.hide {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+    }
+    #splash .logo {
+      width: 96px;
+      height: 96px;
+      margin-bottom: 1.5rem;
+    }
+    #splash h1 {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: #f8fafc;
+      margin: 0 0 0.5rem;
+      letter-spacing: -0.02em;
+    }
+    #splash p {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 0.95rem;
+      color: #94a3b8;
+      margin: 0;
+    }
+    #splash .loader {
+      margin-top: 2rem;
+      width: 40px;
+      height: 4px;
+      background: #1e293b;
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    #splash .loader-bar {
+      height: 100%;
+      width: 30%;
+      background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+      border-radius: 2px;
+      animation: load 1.2s ease-in-out infinite;
+    }
+    @keyframes load {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(400%); }
+    }
+  </style>
+</head>
+<body>
+  <div id="splash">
+    <svg class="logo" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect x="8" y="28" width="84" height="52" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="3"/>
+      <rect x="18" y="38" width="12" height="12" rx="2" fill="#3b82f6"/>
+      <rect x="34" y="38" width="12" height="12" rx="2" fill="#64748b"/>
+      <rect x="50" y="38" width="12" height="12" rx="2" fill="#64748b"/>
+      <rect x="66" y="38" width="12" height="12" rx="2" fill="#64748b"/>
+      <rect x="26" y="54" width="48" height="10" rx="2" fill="#8b5cf6"/>
+      <path d="M50 12 L58 22 L42 22 Z" fill="#3b82f6"/>
+    </svg>
+    <h1>Typing Master</h1>
+    <p>Build Speed. Build Accuracy. Build Muscle Memory.</p>
+    <div class="loader"><div class="loader-bar"></div></div>
+  </div>
+  <div id="app"></div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
